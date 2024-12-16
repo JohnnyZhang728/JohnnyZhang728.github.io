@@ -24,9 +24,7 @@ author:
   avatar           : "../images/profile.png"
   name             : "Zeyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "AI Researcher. " 
-  
-                     "Looking for Ph.D. position starting in 2025 Fall."
+  bio              : "AI Researcher. /n Looking for Ph.D. position starting in 2025 Fall."
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
