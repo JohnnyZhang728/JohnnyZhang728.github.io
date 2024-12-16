@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zeyu Zhang / Personal Website"
+title                    : "Zeyu Zhang"
 title_separator          : "-"
 name                     : &name "Zeyu Zhang"
 description              : &description "Blending art and technology."
