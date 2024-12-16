@@ -29,6 +29,6 @@ Education
 Research Internship
 ======
 * 10/2023 - 08/2024: Research Assistant
-  * The University of Hong Kong, Metaverse Innovation Lab
+  * Metaverse Innovation Lab, The University of Hong Kong
   * Supervisor: Dr. Loretta Choi
   * Duties included: I worked on two projects, one was a Drone-to-Drone Tracking Project, and the other was a 3D Reconstruction Project. I utilized knowledge and techniques in computer vision and computer graphics to implement these two projects.
