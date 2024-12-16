@@ -17,7 +17,12 @@ From Oct. 2023 to Aug.2024, I was a Research Assistant at HKU Metaverse Innovati
 
 You can find my CV here: [Zeyu Zhang's Curriculum Vitae](../assets/Zeyu_Zhang_CV.pdf).
 
-My research interests lie in the intersection of art and technology. Specifically, I am interested in exploring applications of AI and HCI in the fields of film, theater, media, and performance. At the core of my interests lies storytelling, and I believe that VR/AR/MR technologies provide unique opportunities for enhancing creative expression. These technologies enable the design of immersive experiences and foster user-centered approaches. I am deeply eager to leverage computer techniques and AI to explore the future of film and theater, pushing the boundaries of storytelling in these domains.
+My research interests lie in the intersection of art and technology. Specifically, I am interested in exploring applications of AI and HCI in the fields of film, theater, media, and performance. At the core of my interests lies storytelling, and I believe that VR/AR/MR technologies provide unique opportunities for enhancing creative expression. These technologies enable the design of immersive & interactive experiences and foster user-centered approaches. 
+
+To be specific, I aim to:
+
+1. Explore and develop experimental environments/user interfaces/tools for ... to ...
+2. Create interactive and immersive user experiences utilizing .... for storytelling in ....
 
 
 
