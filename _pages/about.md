@@ -15,7 +15,7 @@ From Oct. 2023 to Aug.2024, I was a Research Assistant at HKU Metaverse Innovati
 
 You can find my CV here: [Zeyu Zhang's Curriculum Vitae](../assets/Zeyu_Zhang_CV.pdf).
 
-My research interests lie in the intersection of art and technology. Specifically, I am interested in exploring applications of AI and HCI in the fields of film, theater, media, and performance. At the core of my interests lies storytelling, and I believe that VR/AR/MR technologies provide unique opportunities for enhancing creative expression. These technologies enable the design of immersive & interactive experiences and foster user-centered approaches. 
+My research interests lie in the interdisciplinary research that blends art and technology. Specifically, I am interested in exploring applications of AI and HCI in the fields of film, theater, media, and performance. At the core of my interests lies storytelling, and I am enthusiastic to utilize VR/AR/MR to enhance creative expression. My goal is to utilize technologies to enable the design of immersive & interactive experiences and foster user-centered approaches. 
 
 To be specific, I aim to:
 1. Explore and develop experimental environments/user interfaces/tools for ... to ...
@@ -32,5 +32,5 @@ Research Internship
 ======
 * 10/2023 - 08/2024: Research Assistant
   * Metaverse Innovation Lab, The University of Hong Kong
-  * Supervisor: Dr. Loretta Choi
+  * Supervisor: [Dr. Loretta Choi](https://i.cs.hku.hk/~ykchoi/)
   * Duties included: I worked on two projects, one was a Drone-to-Drone Tracking Project, and the other was a 3D Reconstruction Project. I utilized knowledge and techniques in computer vision and computer graphics to implement these two projects.
