@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/fddfca53-7be2-4513-a358-91c582a04632)---
 permalink: /
 title: "About me"
 author_profile: true
@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My name is Zeyu ZHANG. Currently, I'm looking for Ph.D. position starting in 2025 Fall.
 
-I completed my Master of Science in Computer Science at [the University of Hong Kong](https://www.hku.hk/) in Dec. 2023. 
+I completed my Master of Science in Computer Science at [The University of Hong Kong](https://www.hku.hk/) in Dec. 2023. 
 
 I received my Bachelor's degree in Computer Science and Technology from [Wuhan University](https://en.whu.edu.cn/) in 2022. 
 
@@ -17,20 +17,18 @@ From Oct. 2023 to Aug.2024, I was a Research Assistant at HKU Metaverse Innovati
 
 You can find my CV here: [Zeyu Zhang's Curriculum Vitae](../assets/Zeyu_Zhang_CV.pdf).
 
-My research interests lie 
+My research interests lie in the intersection of art and technology. Specifically, I am interested in exploring applications of AI and HCI in the fields of film, theater, media, and performance. At the core of my interests lies storytelling, and I believe that VR/AR/MR technologies provide unique opportunities for enhancing creative expression. These technologies enable the design of immersive experiences and foster user-centered approaches. I am deeply eager to leverage computer techniques and AI to explore the future of film and theater, pushing the boundaries of storytelling in these domains.
+
+
 
 Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* MSc in Computer Science, The University of Hong Kong, 09/2022 - 12/2023
+* BEng in Computer Science and Technology, Wuhan University, 09/2018 - 06/2022
 
 Research Internship
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+* 10/2023 - 08/2024: Research Assistant
+  * The University of Hong Kong, Metaverse Innovation Lab
+  * Supervisor: Dr. Loretta Choi
+  * Duties included: I worked on two projects, one was a Drone-to-Drone Tracking Project, and the other was a 3D Reconstruction Project. I utilized knowledge and techniques in computer vision and computer graphics to implement these two projects.
