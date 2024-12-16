@@ -9,6 +9,8 @@ redirect_from:
 
 Hi! My name is Zeyu ZHANG. I completed my Master of Science in Computer Science at [the University of Hong Kong](https://www.hku.hk/) in Dec. 2023. I received my Bachelor's degree in Computer Science and Technology from [Wuhan University](https://en.whu.edu.cn/) in 2022. From Oct. 2023 to Aug.2024, I was a Research Assistant at HKU Metaverse Innovation Lab under the supervision of Dr. [Loretta Choi](https://i.cs.hku.hk/~ykchoi/). Currently, I'm looking for Ph.D. position starting in 2025 Fall.
 
+You can find my CV here: [Zeyu Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
