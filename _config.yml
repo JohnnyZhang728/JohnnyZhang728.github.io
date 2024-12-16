@@ -12,7 +12,7 @@ title                    : "Zeyu Zhang / Personal Website"
 title_separator          : "-"
 name                     : &name "Zeyu Zhang"
 description              : &description "Blending art and technology."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://JohnnyZhang728.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JohnnyZhang728/JohnnyZhang728.github.io"
 
