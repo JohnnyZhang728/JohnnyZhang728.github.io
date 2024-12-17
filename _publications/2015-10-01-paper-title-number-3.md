@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: https://doi.org/10.48550/arXiv.2308.12231
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
