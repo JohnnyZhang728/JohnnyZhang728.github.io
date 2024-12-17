@@ -305,21 +305,26 @@ nav {
   }
 }
 
-/* 页面主体容器，确保填满宽度 */
+/* 修改页面主容器为 flex 布局 */
 #main {
+  display: flex; /* 启用 Flexbox */
+  flex-direction: row; /* 默认水平排列，内容区在左，侧边栏在右 */
   width: 100%; /* 填满整个宽度 */
   max-width: 100%; /* 不限制最大宽度 */
   margin: 0; /* 无外边距 */
   padding: 0; /* 无内边距 */
 }
 
-/* 如果有 .archive 元素，确保它也是全宽 */
-.archive {
-  width: 100%;
-  max-width: 100%;
-  margin: 0;
-  padding: 0;
+#main .content {
+  flex-grow: 1; /* 让主内容区占据剩余空间 */
+  padding: 20px; /* 内边距根据需要调整 */
 }
+
+#main .sidebar {
+  width: 300px; /* 侧边栏固定宽度 */
+  padding: 20px; /* 内边距根据需要调整 */
+}
+
 
 
 /*
