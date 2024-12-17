@@ -305,25 +305,26 @@ nav {
   }
 }
 
-/* 修改页面主容器为 flex 布局 */
+/* 页面主容器为 flexbox 布局 */
 #main {
-  display: flex; /* 启用 Flexbox */
-  flex-direction: row; /* 默认水平排列，内容区在左，侧边栏在右 */
-  width: 100%; /* 填满整个宽度 */
-  max-width: 100%; /* 不限制最大宽度 */
-  margin: 0; /* 无外边距 */
-  padding: 0; /* 无内边距 */
+  display: flex;
+  flex-direction: row-reverse;  /* 内容区在右，侧边栏在左 */
+  justify-content: space-between;  /* 确保左右区域之间有间距 */
+  width: 100%; /* 页面宽度 */
+  padding: 0;  /* 无内边距 */
+  margin: 0;   /* 无外边距 */
 }
 
 #main .content {
-  flex-grow: 1; /* 让主内容区占据剩余空间 */
-  padding: 20px; /* 内边距根据需要调整 */
+  flex-grow: 1;   /* 让内容区占据剩余空间 */
+  margin-left: 20px;  /* 给内容区和左侧的 sidebar 留出空间 */
 }
 
 #main .sidebar {
-  width: 300px; /* 侧边栏固定宽度 */
-  padding: 20px; /* 内边距根据需要调整 */
+  width: 300px;  /* 侧边栏宽度 */
+  flex-shrink: 0;  /* 防止侧边栏缩小 */
 }
+
 
 
 
