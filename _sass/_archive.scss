@@ -3,6 +3,11 @@
    ========================================================================== */
 
 .archive {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto; /* 居中 */
+  padding: 0 20px; /* 添加左右边距，防止贴边 */
+   
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
@@ -10,8 +15,8 @@
   }
 
   @include breakpoint($large) {
-    @include span(12 of 12 last);
-    
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
   }
 
   a {
