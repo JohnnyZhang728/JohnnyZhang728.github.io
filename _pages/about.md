@@ -13,7 +13,7 @@ I completed my Master of Science in Computer Science at [The University of Hong 
 
 From Oct. 2023 to Aug.2024, I was a Research Assistant at HKU Metaverse Innovation Lab under the supervision of Dr. [Loretta Choi](https://i.cs.hku.hk/~ykchoi/). 
 
-You can find my CV here: [Zeyu Zhang's Curriculum Vitae](../assets/Zeyu_Zhang_CV.pdf). I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu2022@connect.hku.hk)
+You can find my CV here: [Zeyu Zhang's Curriculum Vitae](../assets/Zeyu_Zhang_CV.pdf). I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu2022@connect.hku.hk).
 
 My research interests lie in the interdisciplinary research that blends art and technology. Specifically, I am interested in exploring AI and HCI applications in film, theater, media, and performance. Storytelling is at the core of my interests, and I am enthusiastic to utilize VR/AR/MR to enhance creative expression. My goal is to utilize technologies to enable the design of immersive & interactive experiences and foster user-centered approaches. 
 
