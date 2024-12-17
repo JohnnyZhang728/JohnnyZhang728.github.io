@@ -1,5 +1,5 @@
 ---
-title: "SELECTED AWARDS IN FILM & DRAMA"
+category: "SELECTED AWARDS IN FILM & DRAMA"
 excerpt: "• Director/Scriptwriter/Editor of the Short Film 'Comet Spleen', planned to submit to Film Festivals Worldwide 10/2024 <br>
 • Official Selection of the Shanghai International Short Week Summer Script Competition ('Comet Spleen') (Scriptwriter) 08/2024 <br>
 • Outstanding Original Script Award of Wuhan New Youth Drama Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter) 06/2022 <br>
