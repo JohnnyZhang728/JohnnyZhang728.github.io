@@ -34,3 +34,14 @@ Research Internship
   * Metaverse Innovation Lab, The University of Hong Kong
   * Supervisor: [Dr. Loretta Choi](https://i.cs.hku.hk/~ykchoi/)
   * Duties included: I worked on two projects, one was a Drone-to-Drone Tracking Project, and the other was a 3D Reconstruction Project. I utilized knowledge and techniques in computer vision and computer graphics to implement these two projects.
+
+
+Selected Awards in Film & Drama
+======
+* Official Selection of the Shanghai International Short Week Summer Script Competition (‘Comet Spleen’) (Director/Scriptwriter/Editor), 08/2024 
+* Outstanding Original Script Award of Wuhan New Youth Drama Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
+* First prize in the “New China 70 Years and Struggle for a New Era” Film Contest (‘Daybreak’) (Director), 12/2019
+* Third Prize in the Drama Contest at the Wuhan University Golden Autumn Arts Festival (‘The Last Dialogue in the Tanjong Kedai Forest’) (Director), 11/2019
+
+
+
