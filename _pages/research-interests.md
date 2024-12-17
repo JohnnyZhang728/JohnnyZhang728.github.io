@@ -17,14 +17,11 @@ To be more specific, I aim to:
 1. Explore and develop experimental environments/user interfaces/tools for artists, filmmakers, and theater creators to facilitate their creative processes more efficiently and effectively, enabling them to produce finer and more sophisticated works.
 2. Create interactive and immersive experiences by leveraging VR/AR/MR and AI to promote storytelling in film, theater, and other art forms, crafting compelling narratives and enhancing audience engagement.
 
-AI Background
-======
-
-Film & Theatre Background
-======
 
 AI-assisted Filmmaking
 ======
+One of my research interests is AI-assisted filmmaking, which focuses on enhancing traditional filmmaking workflows by leveraging AI technologies. This includes developing tools for the pre-production, mid-production, and post-production stages to make the filmmaking process more efficient and effective. These tools will enhance pre-production tasks such as scriptwriting and storyboard creation, mid-production aspects like virtual cinematography, and post-production processes, including intelligent editing. I am enthusiastic about creating a comprehensive suite of AI-driven tools that can enhance the entire filmmaking process.
+
 
 HCI in Theatre
 ======
