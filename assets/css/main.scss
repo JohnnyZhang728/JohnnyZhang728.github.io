@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.container {
+    width: 100%;
+    max-width: 1200px; /* 可根据需要调整 */
+    margin: 0 auto;
+    padding: 0 20px;
+}
