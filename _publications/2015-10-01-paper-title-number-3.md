@@ -2,8 +2,7 @@
 title: "SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation"
 collection: publications
 category: manuscripts
-permalink: /publication/https://doi.org/10.48550/arXiv.2308.12231
-url: https://doi.org/10.48550/arXiv.2308.12231
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
