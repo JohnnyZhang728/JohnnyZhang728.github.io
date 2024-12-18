@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Short Film: Comet Spleen"
+excerpt: "Logline: Two lonely women share an apartment but occupy it at different times, their presence lingering in the room like an ungraspable connection felt only through imagination.
+ <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
