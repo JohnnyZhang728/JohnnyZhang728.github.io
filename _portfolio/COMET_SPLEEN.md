@@ -1,7 +1,7 @@
 ---
 title: "Short Film: Comet Spleen"
 excerpt: "Logline: Two lonely women share an apartment but occupy it at different times, their presence lingering in the room like an ungraspable connection felt only through imagination.
- <br/><img src='/images/500x300.png'>"
+ <br/><img src='/images/comet_spleen_cover.png'>"
 collection: portfolio
 ---
 
