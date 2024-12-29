@@ -10,4 +10,4 @@ collection: portfolio
 • Genre: Art/Experimental/Feminism/LGBTQ+ <br>
 • Running Time: 23 min <br>
 • Story Synopsis: Alice and Zoey, who have never met, share a rented apartment. One works at night and rests during the day, while the other works during the day and rests at night. To save money, they share this private living space by splitting time. However, since moving in, they have never had the chance to meet, but through the exchange of objects, they begin to grow curious about each other's lives... This film aims to explore the relationship between time, space, sound, imagination, characters, and loneliness.
-<br> [Premiere Link] (https://youtu.be/aGz3TnySiJw?si=lwegq9cexjBGsq6i) | [Download Press Kit] (http://JohnnyZhang728.github.io/files/Film_Introduction.pdf)
+<br> [Premiere Link](https://youtu.be/aGz3TnySiJw?si=lwegq9cexjBGsq6i) | [Download Press Kit](http://JohnnyZhang728.github.io/files/Film_Introduction.pdf)
