@@ -5,6 +5,9 @@ excerpt: "Logline: Two lonely women share an apartment but occupy it at differen
 collection: portfolio
 ---
 
-<img src='/images/zoey仰头海报57-1-gg1.jpg' width="500" height="300">
-<img src='/images/poster_comet_spleen4.png' width="500" height="300">
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+• Position: Director, Scriptwriter, Editor <br>
+• Official Selection of the Shanghai International Short Week Summer Script Competition <br>
+• Genre: Art/Experimental/Feminism/LGBTQ+ <br>
+• Running Time: 23 min <br>
+• Story Synopsis: Alice and Zoey, who have never met, share a rented apartment. One works at night and rests during the day, while the other works during the day and rests at night. To save money, they share this private living space by splitting time. However, since moving in, they have never had the chance to meet, but through the exchange of objects, they begin to grow curious about each other's lives... This film aims to explore the relationship between time, space, sound, imagination, characters, and loneliness.
+<br> [Premiere Link] (https://youtu.be/aGz3TnySiJw?si=lwegq9cexjBGsq6i) | [Download Press Kit] (http://JohnnyZhang728.github.io/files/Film_Introduction.pdf)
