@@ -21,7 +21,7 @@ To be more specific, I aim to:
 
 HCI in Theatre
 ======
-One of my research interests is HCI in Theatre. It can be categorized into three specific aspects:
+One of my research interests is: HCI in Theatre. It can be categorized into three specific aspects:
 1. VR Theater <br>
 The most exciting part, which I have yet to fully figure out, involves using XR and AI technologies to enrich live theater performances. My vision is to seamlessly integrate technology into the art of theater, transforming it into an organic part of the performance. This could mean enhancing storytelling, deepening audience engagement, or improving interactivity and immersion, ultimately creating stronger emotional resonance for the audience. My goal is to explore how technology can push the boundaries of traditional theater, offering audiences profound and transformative experiences.
 2. HCI + Drama Therapy <br>
@@ -32,7 +32,7 @@ Traditional theater rehearsals are often constrained by high rental costs for pe
 
 AI-assisted Filmmaking
 ======
-Another one of my research interests is AI-assisted filmmaking, which focuses on enhancing traditional filmmaking workflows by leveraging AI technologies. This includes developing tools for the pre-production, mid-production, and post-production stages to make the filmmaking process more efficient and effective. These tools will enhance pre-production tasks such as scriptwriting and storyboard creation, mid-production aspects like virtual cinematography, and post-production processes, including intelligent editing. I am enthusiastic about creating a comprehensive suite of AI-driven tools that can enhance the entire filmmaking process.
+Another one of my research interests is: AI-assisted filmmaking, which focuses on enhancing traditional filmmaking workflows by leveraging AI technologies. This includes developing tools for the pre-production, mid-production, and post-production stages to make the filmmaking process more efficient and effective. These tools will enhance pre-production tasks such as scriptwriting and storyboard creation, mid-production aspects like virtual cinematography, and post-production processes, including intelligent editing. I am enthusiastic about creating a comprehensive suite of AI-driven tools that can enhance the entire filmmaking process.
 
 Cinematic VR
 ======
