@@ -18,22 +18,21 @@ To be more specific, I aim to:
 2. Create interactive and immersive experiences by leveraging VR/AR/MR and AI to promote storytelling in film, theater, and other art forms, crafting compelling narratives and enhancing audience engagement.
 
 
-AI-assisted Filmmaking
-======
-One of my research interests is AI-assisted filmmaking, which focuses on enhancing traditional filmmaking workflows by leveraging AI technologies. This includes developing tools for the pre-production, mid-production, and post-production stages to make the filmmaking process more efficient and effective. These tools will enhance pre-production tasks such as scriptwriting and storyboard creation, mid-production aspects like virtual cinematography, and post-production processes, including intelligent editing. I am enthusiastic about creating a comprehensive suite of AI-driven tools that can enhance the entire filmmaking process.
-
 
 HCI in Theatre
 ======
-Another one of my research interests is HCI in Theatre. It can be categorized into three specific aspects:
-1. HCI + Drama Therapy <br>
-I aim to utilize VR/AR/MR technologies to create interactive and immersive environments for drama therapy, a practice that employs techniques such as role-playing, improvisation, games, and storytelling to help participants express emotions, address challenges, and promote mental well-being. By integrating immersive technologies, I seek to enhance the therapeutic process, providing safe, interactive, and adaptable spaces for personal growth, emotional healing, and self-exploration.
-2. HCI + Theater Rehearsals <br>
-Traditional theater rehearsals are often constrained by high rental costs for performance spaces and the one-time, expensive nature of set design. Many theater troupes are forced to rehearse in simple rooms with minimal props, creating a significant disparity between rehearsal and performance environments. This gap makes it difficult for actors to immerse themselves in their roles, interact with their surroundings, and fully inhabit their characters. To address this challenge, I aim to develop virtual sets and immersive rehearsal environments that simulate realistic stage conditions. These tools will enhance actor immersion, improve rehearsal efficiency, and foster a dynamic, collaborative creative process—ultimately elevating the quality of live theater productions.
-3. HCI + Theater Performances <br>
+One of my research interests is HCI in Theatre. It can be categorized into three specific aspects:
+1. VR Theater <br>
 The most exciting part, which I have yet to fully figure out, involves using XR and AI technologies to enrich live theater performances. My vision is to seamlessly integrate technology into the art of theater, transforming it into an organic part of the performance. This could mean enhancing storytelling, deepening audience engagement, or improving interactivity and immersion, ultimately creating stronger emotional resonance for the audience. My goal is to explore how technology can push the boundaries of traditional theater, offering audiences profound and transformative experiences.
+2. HCI + Drama Therapy <br>
+I aim to utilize VR/AR/MR technologies to create interactive and immersive environments for drama therapy, a practice that employs techniques such as role-playing, improvisation, games, and storytelling to help participants express emotions, address challenges, and promote mental well-being. By integrating immersive technologies, I seek to enhance the therapeutic process, providing safe, interactive, and adaptable spaces for personal growth, emotional healing, and self-exploration.
+3. HCI + Theater Rehearsals <br>
+Traditional theater rehearsals are often constrained by high rental costs for performance spaces and the one-time, expensive nature of set design. Many theater troupes are forced to rehearse in simple rooms with minimal props, creating a significant disparity between rehearsal and performance environments. This gap makes it difficult for actors to immerse themselves in their roles, interact with their surroundings, and fully inhabit their characters. To address this challenge, I aim to develop virtual sets and immersive rehearsal environments that simulate realistic stage conditions. These tools will enhance actor immersion, improve rehearsal efficiency, and foster a dynamic, collaborative creative process—ultimately elevating the quality of live theater productions.
 
 
+AI-assisted Filmmaking
+======
+Another one of my research interests is AI-assisted filmmaking, which focuses on enhancing traditional filmmaking workflows by leveraging AI technologies. This includes developing tools for the pre-production, mid-production, and post-production stages to make the filmmaking process more efficient and effective. These tools will enhance pre-production tasks such as scriptwriting and storyboard creation, mid-production aspects like virtual cinematography, and post-production processes, including intelligent editing. I am enthusiastic about creating a comprehensive suite of AI-driven tools that can enhance the entire filmmaking process.
 
 Cinematic VR
 ======
