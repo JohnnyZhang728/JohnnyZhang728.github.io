@@ -6,6 +6,7 @@ collection: portfolio
 ---
 
 • Position: Director, Scriptwriter, Editor <br>
+• Official Selection of the Moscow Asian Film Festival <br>
 • Official Selection of the Shanghai International Short Week Summer Script Competition <br>
 • Genre: Art/Experimental/Feminism/LGBTQ+ <br>
 • Running Time: 23 min <br>
