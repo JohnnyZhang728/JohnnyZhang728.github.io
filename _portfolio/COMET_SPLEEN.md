@@ -6,6 +6,9 @@ collection: portfolio
 ---
 
 • Position: Director, Scriptwriter, Editor <br>
+• Official Selection of the Munich New Wave Short Film Festival <br>
+• Semi-finalist of the Kyoto Independent Film Festival <br>
+• Shortlisted for the Asian Art Film Awards Short TV Series Ceremony <br>
 • Official Selection of the Hong Kong International Youth Film Festival <br>
 • Official Selection of the Moscow Asian Film Festival <br>
 • Official Selection of the Shanghai International Short Week Summer Script Competition <br>
