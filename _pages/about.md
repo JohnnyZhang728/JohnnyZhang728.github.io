@@ -38,6 +38,9 @@ Research Internship
 
 Selected Awards in Film & Drama
 ======
+* Official Selection of the Munich New Wave Short Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
+* Semi-finalist of the Kyoto Independent Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
+* Shortlisted for the Asian Art Film Awards Short TV Series Ceremony (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
 * Official Selection of the Hong Kong International Youth Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 02/2025
 * Official Selection of the Moscow Asian Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 02/2025
 * Official Selection of the Shanghai International Short Week Summer Script Competition (‘Comet Spleen’) (Scriptwriter), 08/2024 
