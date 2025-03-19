@@ -6,11 +6,13 @@ collection: portfolio
 ---
 
 • Position: Director, Scriptwriter, Editor <br>
+• Finalist of the Moscow Asian Film Festival <br>
+• Semi-finalist of the New York International Women Festival <br>
+• Honorable Mention of the Hollywood New Directors <br>
 • Official Selection of the Munich New Wave Short Film Festival <br>
 • Semi-finalist of the Kyoto Independent Film Festival <br>
 • Shortlisted for the Asian Art Film Awards Short TV Series Ceremony <br>
 • Official Selection of the Hong Kong International Youth Film Festival <br>
-• Official Selection of the Moscow Asian Film Festival <br>
 • Official Selection of the Shanghai International Short Week Summer Script Competition <br>
 • Genre: Art/Experimental/Feminism/LGBTQ+ <br>
 • Running Time: 23 min <br>
