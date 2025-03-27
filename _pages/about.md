@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Zeyu ZHANG. Currently, I work as a remote research intern at [TAMU](https://www.tamu.edu/) under the supervision of Prof. [Wai Tong](https://wtong2017.github.io/). I'm looking for Ph.D. position starting in 2025 Fall.
+Hi! My name is Zeyu ZHANG. Currently, I work as a remote research intern at [Texas A&M University](https://www.tamu.edu/) under the supervision of Prof. [Wai Tong](https://wtong2017.github.io/). I'm looking for Ph.D. position starting in 2025 Fall.
 
 I completed my Master of Science in Computer Science at [The University of Hong Kong](https://www.hku.hk/) in Dec. 2023. I received my Bachelor's degree in Computer Science and Technology from [Wuhan University](https://en.whu.edu.cn/) in 2022. 
 
@@ -30,6 +30,10 @@ Education
 
 Research Internship
 ======
+* 01/2025 - present: Remote Research Intern
+  * VVAI Lab, Texas A&M University
+  * Supervisor: [Prof. Wai Tong](https://wtong2017.github.io/)
+  * Duties included: Develop an AI-driven system to generate real-time American Sign Language (ASL) during concerts, providing accessibility to Deaf and hard-of-hearing audiences.
 * 10/2023 - 08/2024: Research Assistant
   * Metaverse Innovation Lab, The University of Hong Kong
   * Supervisor: [Dr. Loretta Choi](https://i.cs.hku.hk/~ykchoi/)
@@ -45,6 +49,7 @@ Selected Awards in Film & Drama
 * Semi-finalist of the Kyoto Independent Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
 * Shortlisted for the Asian Art Film Awards Short TV Series Ceremony (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
 * Official Selection of the Hong Kong International Youth Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 02/2025
+* Preliminary shortlist of the Pioneer Art Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 01/2025
 * Official Selection of the Shanghai International Short Week Summer Script Competition (‘Comet Spleen’) (Scriptwriter), 08/2024 
 * Outstanding Original Script Award of Wuhan New Youth Drama Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
 * First prize in the “New China 70 Years and Struggle for a New Era” Film Contest (‘Daybreak’) (Director), 12/2019
