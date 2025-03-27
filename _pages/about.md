@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Zeyu ZHANG. Currently, I'm looking for Ph.D. position starting in 2025 Fall.
+Hi! My name is Zeyu ZHANG. Currently, I work as a remote research intern at TAMU under the supervision of Prof. [Wai Tong](https://wtong2017.github.io/). I'm looking for Ph.D. position starting in 2025 Fall.
 
 I completed my Master of Science in Computer Science at [The University of Hong Kong](https://www.hku.hk/) in Dec. 2023. I received my Bachelor's degree in Computer Science and Technology from [Wuhan University](https://en.whu.edu.cn/) in 2022. 
 
