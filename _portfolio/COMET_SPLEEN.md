@@ -13,6 +13,7 @@ collection: portfolio
 • Semi-finalist of the Kyoto Independent Film Festival <br>
 • Shortlisted for the Asian Art Film Awards Short TV Series Ceremony <br>
 • Official Selection of the Hong Kong International Youth Film Festival <br>
+• Preliminary shortlist of the Pioneer Art Film Festival <br>
 • Official Selection of the Shanghai International Short Week Summer Script Competition <br> <br>
 • Genre: Art/Experimental/Feminism/LGBTQ+ <br>
 • Running Time: 23 min <br>
