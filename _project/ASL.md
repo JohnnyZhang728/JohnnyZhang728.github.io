@@ -1,5 +1,5 @@
 ---
-title: "AI Sign Language Generation in Concert"
+title: "AI Sign Language Generation in Concert (Ongoing)"
 excerpt: "Develop an AI-driven system to generate real-time American Sign Language (ASL) during concerts, providing accessibility to deaf and hard-of-hearing audiences."
 collection: project
 ---
