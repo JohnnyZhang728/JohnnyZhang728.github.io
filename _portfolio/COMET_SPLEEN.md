@@ -6,6 +6,7 @@ collection: portfolio
 ---
 
 • Position: Director, Scriptwriter, Editor <br> <br>
+• Semi-finalist of the Tokyo ShortFest <br>
 •	Honourable Mention of the Greece International Film Festival <br>
 • Finalist of the Moscow Asian Film Festival <br>
 • Semi-finalist of the New York International Women Festival <br>
