@@ -42,6 +42,7 @@ Research Internship
 
 Selected Awards in Film & Drama
 ======
+* Honourable Mention of the Greece International Film Festival, 03/2025
 * Finalist of the Moscow Asian Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
 * Semi-finalist of the New York International Women Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
 * Honorable Mention of the Hollywood New Directors (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
