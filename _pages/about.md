@@ -42,15 +42,18 @@ Research Internship
 
 Selected Awards in Film & Drama
 ======
-* Semi-finalist of the Tokyo ShortFest (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Honourable Mention of the Greece International Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Finalist of the Moscow Asian Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Semi-finalist of the New York International Women Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
+* Outstanding Short Film Award of the Hong Kong International Youth Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 04/2025
+* Honorable Mention of the Athens International Monthly Art Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 04/2025
 * Honorable Mention of the Hollywood New Directors (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
+* Honorable Mention of the Greece International Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
+* Finalist of the 58th WorldFest-Houston International Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 04/2025
+* Finalist of the Moscow Asian Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
 * Official Selection of the Munich New Wave Short Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
+* Semi-finalist of the New York International Women Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
 * Semi-finalist of the Kyoto Independent Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
+* Semi-finalist of the Tokyo ShortFest (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
+* Monthly Picks of the Rome Prisma Film Awards (‘Comet Spleen’) (Director/Scriptwriter/Editor), 04/2025
 * Shortlisted for the Asian Art Film Awards Short TV Series Ceremony (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Official Selection of the Hong Kong International Youth Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 02/2025
 * Preliminary shortlist of the Pioneer Art Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 01/2025
 * Official Selection of the Shanghai International Short Week Summer Script Competition (‘Comet Spleen’) (Scriptwriter), 08/2024 
 * Outstanding Original Script Award of Wuhan New Youth Drama Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
