@@ -6,17 +6,22 @@ collection: portfolio
 ---
 
 • Position: Director, Scriptwriter, Editor <br> <br>
-• Semi-finalist of the Tokyo ShortFest <br>
-•	Honourable Mention of the Greece International Film Festival <br>
-• Finalist of the Moscow Asian Film Festival <br>
-• Semi-finalist of the New York International Women Festival <br>
+
+• Outstanding Short Film Award of the Hong Kong International Youth Film Festival <br>
+• Honorable Mention of the Athens International Monthly Art Film Festival <br>
+•	Honorable Mention of the Greece International Film Festival <br>
 • Honorable Mention of the Hollywood New Directors <br>
+• Finalist of the 58th WorldFest-Houston International Film Festival <br>
+• Finalist of the Moscow Asian Film Festival <br>
 • Official Selection of the Munich New Wave Short Film Festival <br>
+• Semi-finalist of the New York International Women Festival <br>
 • Semi-finalist of the Kyoto Independent Film Festival <br>
+• Semi-finalist of the Tokyo ShortFest <br>
+• Monthly Picks of the Rome Prisma Film Awards <br>
 • Shortlisted for the Asian Art Film Awards Short TV Series Ceremony <br>
-• Official Selection of the Hong Kong International Youth Film Festival <br>
 • Preliminary shortlist of the Pioneer Art Film Festival <br>
 • Official Selection of the Shanghai International Short Week Summer Script Competition <br> <br>
+
 • Genre: Art/Experimental/Feminism/LGBTQ+ <br>
 • Running Time: 23 min <br>
 • Story Synopsis: Alice and Zoey, who have never met, share a rented apartment. One works at night and rests during the day, while the other works during the day and rests at night. To save money, they share this private living space by splitting time. However, since moving in, they have never had the chance to meet, but through the exchange of objects, they begin to grow curious about each other's lives... This film aims to explore the relationship between time, space, sound, imagination, characters, and loneliness.
