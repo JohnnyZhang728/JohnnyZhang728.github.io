@@ -57,6 +57,7 @@ Selected Awards in Film & Drama
 * Finalist of the Moscow Asian Film Festival, 03/2025
 * Official Selection of the HER Film Festival, 04/2025
 * Official Selection of the Munich New Wave Short Film Festival, 03/2025
+* Semi-finalist of the Cleveland Arthouse Film Awards, 04/2025
 * Semi-finalist of the New York International Women Festival, 03/2025
 * Semi-finalist of the Kyoto Independent Film Festival, 03/2025
 * Semi-finalist of the Tokyo ShortFest, 03/2025
