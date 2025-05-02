@@ -42,7 +42,7 @@ Research Internship
 
 Selected Awards in Film & Drama
 ======
-* **For Short Film *Comet Spleen* (Director/Scriptwriter/Editor):**
+**For Short Film *Comet Spleen* (Director/Scriptwriter/Editor):**
 * Excellent Award of the Hong Kong International Youth Film Festival, 04/2025
 * Honorable Mention of the Athens International Monthly Art Film Festival, 04/2025
 * Honorable Mention of the Hollywood New Directors, 03/2025
@@ -59,7 +59,7 @@ Selected Awards in Film & Drama
 * Shortlisted for the Asian Art Film Awards Short TV Series Ceremony, 03/2025
 * Preliminary shortlist of the Pioneer Art Film Festival, 01/2025
 * Official Selection of the Shanghai International Short Week Summer Script Competition, 08/2024
-<br>
+<br> <br>
 * Outstanding Original Script Award of Wuhan New Youth Drama Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
 * First prize in the “New China 70 Years and Struggle for a New Era” Film Contest (‘Daybreak’) (Director), 12/2019
 * Third Prize in the Drama Contest at the Wuhan University Golden Autumn Arts Festival (‘The Last Dialogue in the Tanjong Kedai Forest’) (Director), 11/2019
