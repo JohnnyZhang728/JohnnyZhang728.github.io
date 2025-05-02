@@ -42,20 +42,24 @@ Research Internship
 
 Selected Awards in Film & Drama
 ======
-* Outstanding Short Film Award of the Hong Kong International Youth Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 04/2025
-* Honorable Mention of the Athens International Monthly Art Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 04/2025
-* Honorable Mention of the Hollywood New Directors (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Honorable Mention of the Greece International Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Finalist of the 58th WorldFest-Houston International Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 04/2025
-* Finalist of the Moscow Asian Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Official Selection of the Munich New Wave Short Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Semi-finalist of the New York International Women Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Semi-finalist of the Kyoto Independent Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Semi-finalist of the Tokyo ShortFest (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Monthly Picks of the Rome Prisma Film Awards (‘Comet Spleen’) (Director/Scriptwriter/Editor), 04/2025
-* Shortlisted for the Asian Art Film Awards Short TV Series Ceremony (‘Comet Spleen’) (Director/Scriptwriter/Editor), 03/2025
-* Preliminary shortlist of the Pioneer Art Film Festival (‘Comet Spleen’) (Director/Scriptwriter/Editor), 01/2025
-* Official Selection of the Shanghai International Short Week Summer Script Competition (‘Comet Spleen’) (Scriptwriter), 08/2024 
+* **For Short Film *Comet Spleen* (Director/Scriptwriter/Editor):**
+* Excellent Award of the Hong Kong International Youth Film Festival, 04/2025
+* Honorable Mention of the Athens International Monthly Art Film Festival, 04/2025
+* Honorable Mention of the Hollywood New Directors, 03/2025
+* Honorable Mention of the Greece International Film Festival, 03/2025
+* Finalist of the 58th WorldFest-Houston International Film Festival, 04/2025
+* Finalist of the Paris Women CineFest, 04/2025
+* Finalist of the Moscow Asian Film Festival, 03/2025
+* Official Selection of the HER Film Festival, 04/2025
+* Official Selection of the Munich New Wave Short Film Festival, 03/2025
+* Semi-finalist of the New York International Women Festival, 03/2025
+* Semi-finalist of the Kyoto Independent Film Festival, 03/2025
+* Semi-finalist of the Tokyo ShortFest, 03/2025
+* Monthly Picks of the Rome Prisma Film Awards, 04/2025
+* Shortlisted for the Asian Art Film Awards Short TV Series Ceremony, 03/2025
+* Preliminary shortlist of the Pioneer Art Film Festival, 01/2025
+* Official Selection of the Shanghai International Short Week Summer Script Competition, 08/2024
+<br>
 * Outstanding Original Script Award of Wuhan New Youth Drama Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
 * First prize in the “New China 70 Years and Struggle for a New Era” Film Contest (‘Daybreak’) (Director), 12/2019
 * Third Prize in the Drama Contest at the Wuhan University Golden Autumn Arts Festival (‘The Last Dialogue in the Tanjong Kedai Forest’) (Director), 11/2019
