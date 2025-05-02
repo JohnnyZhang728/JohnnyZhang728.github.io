@@ -42,7 +42,7 @@ Research Internship
 
 Selected Awards in Film & Drama
 ======
-**For Short Film *Comet Spleen* (Director/Scriptwriter/Editor):**
+  **For Short Film *Comet Spleen* (Director/Scriptwriter/Editor):**
 * Excellent Award of the Hong Kong International Youth Film Festival, 04/2025
 * Honorable Mention of the Athens International Monthly Art Film Festival, 04/2025
 * Honorable Mention of the Hollywood New Directors, 03/2025
