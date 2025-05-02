@@ -60,6 +60,7 @@ Selected Awards in Film & Drama
 * Preliminary shortlist of the Pioneer Art Film Festival, 01/2025
 * Official Selection of the Shanghai International Short Week Summer Script Competition, 08/2024
 <br> <br>
+**For Others:**
 * Outstanding Original Script Award of Wuhan New Youth Drama Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
 * First prize in the “New China 70 Years and Struggle for a New Era” Film Contest (‘Daybreak’) (Director), 12/2019
 * Third Prize in the Drama Contest at the Wuhan University Golden Autumn Arts Festival (‘The Last Dialogue in the Tanjong Kedai Forest’) (Director), 11/2019
