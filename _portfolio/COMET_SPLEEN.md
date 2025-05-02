@@ -19,6 +19,7 @@ collection: portfolio
 • Semi-finalist of the New York International Women Festival <br>
 • Semi-finalist of the Kyoto Independent Film Festival <br>
 • Semi-finalist of the Tokyo ShortFest <br>
+• Semi-finalist of the Cleveland Arthouse Film Awards <br>
 • Monthly Picks of the Rome Prisma Film Awards <br>
 • Shortlisted for the Asian Art Film Awards Short TV Series Ceremony <br>
 • Preliminary shortlist of the Pioneer Art Film Festival <br>
