@@ -15,11 +15,11 @@ From Oct. 2023 to Aug.2024, I was a Research Assistant at HKU Metaverse Innovati
 
 You can find my CV here: [Zeyu Zhang's Curriculum Vitae](../assets/Zeyu_ZHANG_CV.pdf). You can find my Artwork Portfolio here: [Zeyu Zhang's Artwork Portfolio](../assets/Portfolio_Zeyu_ZHANG.pdf). I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu2022@connect.hku.hk).
 
-My research interests lie in the interdisciplinary research that blends art and technology. Specifically, I am interested in exploring AI and HCI applications in film, theater, media, and performance. Storytelling is at the core of my interests, and I am enthusiastic to utilize VR/AR/MR to enhance creative expression. My goal is to utilize technologies to enable the design of immersive & interactive experiences and foster user-centered approaches. 
+My research interests lie in the interdisciplinary research that blends art and technology. Specifically, I am interested in exploring AI and HCI applications in film, theater, media, and performance. Storytelling is at the core of my interests, and I am enthusiastic to utilize AI to enhance creative expression. My goal is to utilize technologies to enable the design of immersive & interactive experiences and foster user-centered approaches. 
 
 To be more specific, I aim to:
 1. Explore and develop experimental environments/user interfaces/tools for artists, filmmakers, and theater creators to facilitate their creative processes more efficiently and effectively, enabling them to produce finer and more sophisticated works.
-2. Create interactive and immersive experiences by leveraging VR/AR/MR and AI to promote storytelling in film, theater, and other art forms, crafting compelling narratives and enhancing audience engagement.
+2. Create interactive and immersive experiences by leveraging AI to promote storytelling in film, theater, and other art forms, crafting compelling narratives and enhancing audience engagement.
 
 
 
@@ -39,6 +39,11 @@ Research Internship
   * Supervisor: [Dr. Loretta Choi](https://i.cs.hku.hk/~ykchoi/)
   * Duties included: I worked on two projects, one was a Drone-to-Drone Tracking Project, and the other was a 3D Reconstruction Project. I utilized knowledge and techniques in computer vision and computer graphics to implement these two projects.
 
+
+Professional Activities
+======
+* Co-Organizer and Volunteer Co-Chair for 1st HKUST AI Film Festival, 04/2025
+  * [Festival website](https://cveu.github.io/event/hkustfilm2025.html)
 
 Selected Awards in Film & Drama
 ======
