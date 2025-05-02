@@ -7,15 +7,15 @@ collection: portfolio
 
 • Position: Director, Scriptwriter, Editor <br> <br>
 
-• 🏆Excellent Award of the Hong Kong International Youth Film Festival <br>
-• 🏅Honorable Mention of the Hollywood New Directors <br>
-•	🏅Honorable Mention of the Greece International Film Festival <br>
-• 🏅Honorable Mention of the Athens International Monthly Art Film Festival <br>
-• 🏅Finalist of the 58th WorldFest-Houston International Film Festival <br>
-• 🏅Finalist of the Moscow Asian Film Festival <br>
-• 🏅Finalist of the Paris Women CineFest <br>
-• 🌟Official Selection of the Munich New Wave Short Film Festival <br>
-• 🌟Official Selection of the HER Film Festival <br>
+🏆 Excellent Award of the Hong Kong International Youth Film Festival <br>
+🏅 Honorable Mention of the Hollywood New Directors <br>
+🏅 Honorable Mention of the Greece International Film Festival <br>
+🏅 Honorable Mention of the Athens International Monthly Art Film Festival <br>
+🏅 Finalist of the 58th WorldFest-Houston International Film Festival <br>
+🏅 Finalist of the Moscow Asian Film Festival <br>
+🏅 Finalist of the Paris Women CineFest <br>
+🌟 Official Selection of the Munich New Wave Short Film Festival <br>
+🌟 Official Selection of the HER Film Festival <br>
 • Semi-finalist of the New York International Women Festival <br>
 • Semi-finalist of the Kyoto Independent Film Festival <br>
 • Semi-finalist of the Tokyo ShortFest <br>
