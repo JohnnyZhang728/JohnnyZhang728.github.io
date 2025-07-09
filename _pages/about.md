@@ -34,10 +34,10 @@ Research Internship
   * Duties included: I worked on two projects, one was a Drone-to-Drone Tracking Project, and the other was a 3D Reconstruction Project. I utilized knowledge and techniques in computer vision and computer graphics to implement these two projects.
 
 
-Professional Activities
+Activities
 ======
-* Co-Organizer and Volunteer Co-Chair for 1st HKUST AI Film Festival, 04/2025
-  * [Festival website](https://cveu.github.io/event/hkustfilm2025.html)
+* Co-Organizer and Volunteer Co-Chair for 1st [HKUST AI Film Festival](https://cveu.github.io/event/hkustfilm2025.html), 04/2025
+* Volunteer of the 19th [FIRST International Film Festival](https://www.firstfilm.org.cn/en/), 07/2025
 
 Selected Awards in Film & Drama
 ======
