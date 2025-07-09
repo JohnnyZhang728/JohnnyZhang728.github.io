@@ -41,23 +41,13 @@ Activities
 
 Selected Awards in Film & Drama
 ======
-  **For Short Film *Comet Spleen* (Director/Scriptwriter/Editor):**
+  **For Short Film COMET SPLEEN (Director/Scriptwriter/Editor):**
+* Best Feminist Film of the Brooklyn International Short Awards, 06/2025
+* Best First Time Director of the Cleveland Arthouse Film Awards, 05/2025
 * Excellent Award of the Hong Kong International Youth Film Festival, 04/2025
-* Honorable Mention of the Athens International Monthly Art Film Festival, 04/2025
 * Honorable Mention of the Hollywood New Directors, 03/2025
 * Honorable Mention of the Greece International Film Festival, 03/2025
 * Finalist of the 58th WorldFest-Houston International Film Festival, 04/2025
-* Finalist of the Paris Women CineFest, 04/2025
-* Finalist of the Moscow Asian Film Festival, 03/2025
-* Official Selection of the HER Film Festival, 04/2025
-* Official Selection of the Munich New Wave Short Film Festival, 03/2025
-* Semi-finalist of the Cleveland Arthouse Film Awards, 04/2025
-* Semi-finalist of the New York International Women Festival, 03/2025
-* Semi-finalist of the Kyoto Independent Film Festival, 03/2025
-* Semi-finalist of the Tokyo ShortFest, 03/2025
-* Monthly Picks of the Rome Prisma Film Awards, 04/2025
-* Shortlisted for the Asian Art Film Awards Short TV Series Ceremony, 03/2025
-* Preliminary shortlist of the Pioneer Art Film Festival, 01/2025
 * Official Selection of the Shanghai International Short Week Summer Script Competition, 08/2024
 <br> <br>
 **For Others:**
