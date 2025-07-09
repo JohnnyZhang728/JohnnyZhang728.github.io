@@ -24,9 +24,9 @@ author:
   avatar           : "../images/profile2.JPG"
   name             : "Zeyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "AI & HCI Researcher <br>Filmmaker <br>Theatre lover <br>Looking for Ph.D. position starting in 2025 Fall."
-  location         : "Earth"
-  employer         : # "Red Brick University"
+  bio              : "AI & HCI Researcher <br>Filmmaker <br>Theatre lover"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong University of Science and Technology"
   uri              : # URL
   email            : "zeyu2022@connect.hku.hk" 
 
