@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0bd107c8-a52f-48a0-84e7-72420a9cb956)---
 layout: archive
 title: "Research Interests"
 permalink: /research-interests/
