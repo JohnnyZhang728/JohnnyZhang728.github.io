@@ -1,3 +1,5 @@
+---
+permalink: /
 layout: archive
 title: "Research Interests"
 permalink: /research-interests/
