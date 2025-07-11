@@ -1,4 +1,4 @@
-<img width="432" height="28" alt="image" src="https://github.com/user-attachments/assets/a4174cef-4a2a-499a-9d93-19c7edc756f9" /><img width="432" height="28" alt="image" src="https://github.com/user-attachments/assets/76df5f4a-cd98-4677-b00a-e436f5cae776" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/014afb71-a4d9-4f03-b1c9-d109b0ee527b" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/efc8fc1a-b04b-4480-a757-db1e394f8c2e" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/59548d03-4f37-4d72-8635-0b3bb6728b35" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/2e27ab15-68fe-4a13-96e5-d7d044957b7d" />---
+---
 title: "Short Film: Comet Spleen"
 excerpt: "Logline: Two lonely women share an apartment but occupy it at different times, their presence lingering in the room like an ungraspable connection felt only through imagination.
  <br/><img src='/images/Comet_Spleen_Cover2.JPG'>"
