@@ -1,5 +1,5 @@
 ---
-title: "Theatre: An Evening of the Plum Rain Season"
+title: "Digital Theatre: Blowin' in the wind"
 excerpt: "Adapted into an immersive environmental theatre in 2023, and performed at the Luojia Mountain Theater, Wuhan University.<br/><img src='/images/plum_rain.JPG'>"
 collection: portfolio
 ---
