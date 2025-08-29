@@ -1,12 +1,23 @@
 ---
-title: "Digital Theatre: Blowin' in the wind"
-excerpt: "Adapted into an immersive environmental theatre in 2023, and performed at the Luojia Mountain Theater, Wuhan University.<br/><img src='/images/plum_rain.JPG'>"
+title: "Digital Theatre: Blowin' in the Wind"
+excerpt: "A digital theatre that integrates AI technology into theater, performed at the National Theatre Company of China on August 20, 2025.<br/><img src='/images/plum_rain.JPG'>"
 collection: portfolio
 ---
 
-• Position: Scriptwriter <br> 
-• Outstanding Original Script Award of Wuhan New Youth Drama Festival <br>
-• Genre: Art/Science Fiction/Romance <br>
-• Story Synopsis: On a rainy evening in 2050, programmer Ma Fei meets a young girl and offers to walk her home under his umbrella. Although the journey isn't long, they take a roundabout route, deliberately extending their time together. Along the way, they talk about many things, moving from strangers to close confidants. They even start filming a movie on a pier. But all good times must come to an end, and the two eventually reach the point of parting ways. Just as they are about to say goodbye, Ma Fei makes a startling discovery about the girl's hidden identity... Is it deception or betrayal? Should he forgive or understand? The city, crafted by technology, seems almost alive, breathing in rhythm. What are the owls flying everywhere? Faced with choices, what decisions will Ma Fei and the girl ultimately make? <br>
-[Watch Link](https://www.bilibili.com/video/BV1ch4y167sw/?spm_id_from=333.337.search-card.all.click&vd_source=28d1e08f971be096b9388caee1645567)
+• Theatre Title (Chinese): 风与风之间 <br> 
+• Theatre Title (English): Blowin' in the Wind <br> 
+• Performance Time: August 20, 2025 <br> 
+• Duration: 20 minutes <br> 
+• Venue:  National Theater Company of China <br> 
+• Co-creation Credits: Sitong Cheng｜Yufan Shen｜**Zeyu Zhang**｜Yilin He <br> 
+• Three Theatre Keywords: Jon Fosse, AI, Documentary Theatre <br> 
+• Creative Statement: Is genuine communication possible between people? Can we find a stance of resistance in the face of nihilism? <br> 
+
+• Story Synopsis: Four young artists adapt Jon Fosse's play, "I Am the Wind." Their creative approaches clash: Colar focuses on text, Huo er explores AI-driven narration,Lonestar is fascinated by algorithms, and Shanyue examines the body's boundaries. The rehearsal room becomes a site of intense debate. Despite their differences, they choose collaboration over separation.
+Through their stalemate and compromise, they discover that their disagreements are creating a new form of theatrical storytelling. The process evolves beyond a simple adaptation of "I Am the Wind" into a live experiment on communication and misunderstanding. Ultimately, their four distinct perspectives interweave, echoing the play's core questions: Is genuine human connection possible? And can we find a way to resist nihilism? <br>
+
+• Cast & Crew: <br>
+Dramaturgy: Cheng Sitong | Scriptwriters: **All Participants** | Performers: **All Participants** | Set and Lighting Design: Shen Yufan | Digital Media : **Zhang Zeyu** <br>
+
+
 <br/><img src='/images/drama_meiyu.png'>
