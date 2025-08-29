@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an incoming Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). I will pursue my Ph.D. in the [Individualized Interdisciplinary Program](https://emia.hkust.edu.hk/iip) (Artificial Intelligence and Creative Media) at the [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/).
+Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). I will pursue my Ph.D. in the [Individualized Interdisciplinary Program](https://emia.hkust.edu.hk/iip) (Artificial Intelligence and Creative Media) at the [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/).
 
 My research interests lie in the interdisciplinary research that blends art and technology. Specifically, I am interested in exploring AI and HCI applications in film, theater, media, and performance. Storytelling is at the core of my interests, and I am enthusiastic to utilize AI to enhance creative expression. My goal is to utilize technologies to enable the design of immersive & interactive experiences and foster user-centered approaches. 
 
