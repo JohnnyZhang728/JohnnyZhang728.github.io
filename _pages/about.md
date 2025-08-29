@@ -15,7 +15,7 @@ To be more specific, I aim to:
 1. Explore and develop tools/user interfaces/experimental environments for artists, filmmakers, and theater creators to facilitate their creative processes more efficiently and effectively, enabling them to produce finer and more sophisticated works.
 2. Create interactive and immersive experiences by leveraging AI to promote storytelling in film, theater, and other art forms, crafting compelling narratives and enhancing audience engagement.
 
-I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu2022@connect.hku.hk).
+I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu.zhang@connect.ust.hk).
 
 Education
 ======
