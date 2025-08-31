@@ -20,4 +20,4 @@ Through their stalemate and compromise, they discover that their disagreements a
 Dramaturgy: Cheng Sitong | Scriptwriters: **All Participants** | Performers: **All Participants** | Set and Lighting Design: Shen Yufan | Digital Media : **Zhang Zeyu** <br>
 
 
-<br/><img src='/images/drama_meiyu.png'>
+<br/><img src='/images/wind_9pics.jpg'>
