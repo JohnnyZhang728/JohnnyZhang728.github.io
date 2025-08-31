@@ -12,6 +12,7 @@ collection: portfolio
 • Co-creation Credits: Sitong Cheng｜Yufan Shen｜**Zeyu Zhang**｜Yilin He <br> 
 • Three Theatre Keywords: Jon Fosse, AI, Documentary Theatre <br> 
 • Creative Statement: Is genuine communication possible between people? Can we find a stance of resistance in the face of nihilism? <br> 
+• AI technology used in theatre: Real-time object detection AI model creates an interactive theatre environment.
 
 • Story Synopsis: Four young artists adapt Jon Fosse's play, "I Am the Wind." Their creative approaches clash: Colar focuses on text, Huo er explores AI-driven narration,Lonestar is fascinated by algorithms, and Shanyue examines the body's boundaries. The rehearsal room becomes a site of intense debate. Despite their differences, they choose collaboration over separation.
 Through their stalemate and compromise, they discover that their disagreements are creating a new form of theatrical storytelling. The process evolves beyond a simple adaptation of "I Am the Wind" into a live experiment on communication and misunderstanding. Ultimately, their four distinct perspectives interweave, echoing the play's core questions: Is genuine human connection possible? And can we find a way to resist nihilism? <br>
