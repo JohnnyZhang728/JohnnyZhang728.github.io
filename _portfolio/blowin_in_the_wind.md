@@ -1,6 +1,6 @@
 ---
 title: "Digital Theatre: Blowin' in the Wind"
-excerpt: "A digital theatre that integrates AI technology into theater, performed at the National Theatre Company of China on August 20, 2025.<br/><img src='/images/plum_rain.JPG'>"
+excerpt: "A digital theatre that integrates AI technology into theater, performed at the National Theatre Company of China on August 20, 2025.<br/><img src='/images/wind_cover.jpg'>"
 collection: portfolio
 ---
 
