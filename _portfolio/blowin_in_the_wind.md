@@ -17,7 +17,7 @@ collection: portfolio
 Through their stalemate and compromise, they discover that their disagreements are creating a new form of theatrical storytelling. The process evolves beyond a simple adaptation of "I Am the Wind" into a live experiment on communication and misunderstanding. Ultimately, their four distinct perspectives interweave, echoing the play's core questions: Is genuine human connection possible? And can we find a way to resist nihilism? <br>
 
 • Cast & Crew: <br>
-Dramaturgy: Cheng Sitong | Scriptwriters: **All Participants** | Performers: **All Participants** | Set and Lighting Design: Shen Yufan | Digital Media : **Zhang Zeyu** <br>
+Dramaturgy: Sitong Cheng | Scriptwriters: **All Participants** | Performers: **All Participants** | Set and Lighting Design: Yufan Shen | Digital Media : **Zeyu Zhang** <br>
 
 
 <br/><img src='/images/wind_9pics.jpg'>
