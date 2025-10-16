@@ -8,8 +8,8 @@ collection: portfolio
 • Position: Director, Scriptwriter, Editor <br> <br>
 
 🏆 Best Production Design of the Busan New Wave Short Film Festival <br>
-🏆 Best Production Design of the Incheon International Short Film Festival
-🏆 Special Jury Award of the Korea International Short Film Festival
+🏆 Best Production Design of the Incheon International Short Film Festival <br>
+🏆 Special Jury Award of the Korea International Short Film Festival <br>
 🏆 Excellent Award of the Hong Kong International Youth Film Festival <br>
 🏆 Best First Time Director of the Cleveland Arthouse Film Awards <br>
 🏆 Best Feminist Film of the Brooklyn International Short Awards <br>
