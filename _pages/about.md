@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). I pursue my Ph.D. in the [Individualized Interdisciplinary Program](https://emia.hkust.edu.hk/iip) (Artificial Intelligence and Creative Media) at the [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/). My research interest focuses on AI for Film.
-
-I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu.zhang@connect.ust.hk).
+Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). I pursue my Ph.D. in the [Individualized Interdisciplinary Program](https://emia.hkust.edu.hk/iip) (Artificial Intelligence and Creative Media) at the [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/). My research interest focuses on AI for Film. I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu.zhang@connect.ust.hk).
 
 Education
 ======
