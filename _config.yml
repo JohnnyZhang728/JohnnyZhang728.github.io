@@ -225,7 +225,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   project:
-    output: true
+    output: False
     permalink: /:collection/:path/
 
 
