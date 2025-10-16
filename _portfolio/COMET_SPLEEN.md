@@ -23,6 +23,8 @@ collection: portfolio
 🌟 Official Selection of the Munich New Wave Short Film Festival <br>
 🌟 Official Selection of the RED Movie Award <br>
 🌟 Official Selection of the HER Film Festival <br>
+🌟 Official Selection of the Angelic Stars International Film Festival <br>
+🌟 Official Selection of the Frames of New York Film Festival <br>
 • Semi-finalist of the New York International Women Festival <br>
 • Semi-finalist of the San Francisco Women Film Festival <br>
 • Semi-finalist of the Tokyo Women Film Festival <br>
@@ -33,6 +35,7 @@ collection: portfolio
 • Semi-finalist of the Tokyo ShortFest <br>
 • Semi-finalist of the Madrid Arthouse Film Festival <br>
 • Semi-finalist of the Darkland Munich Film Awards <br>
+• Semi-finalist of the ICEBERG Film Awards <br>
 • Monthly Picks of the Rome Prisma Film Awards <br>
 • Shortlisted for the Asian Art Film Awards Short TV Series Ceremony <br>
 • Preliminary shortlist of the Pioneer Art Film Festival <br>
