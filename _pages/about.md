@@ -31,7 +31,7 @@ Research Internship
 
 Activities
 ======
-* Trainee of Digital Theatre Program Training Camp of the Beijing International Youth Theatre Festival, [National Theater Company of China](http://www.ntcc.com.cn/), 08/2025
+* Trainee of Digital Theatre Program Training Camp of the Beijing International Youth Theatre Festival, [National Theater of China](http://www.ntcc.com.cn/), 08/2025
 * Volunteer of the 19th [FIRST International Film Festival](https://www.firstfilm.org.cn/en/), 07/2025
 * Co-Organizer and Volunteer Co-Chair for 1st [HKUST AI Film Festival](https://cveu.github.io/event/hkustfilm2025.html), 04/2025
 
@@ -53,7 +53,7 @@ Selected Awards in Film & Theatre
 * Official Selection of the Shanghai International Short Week Summer Script Competition, 08/2024
 <br> <br>
 **For Others:**
-* Outstanding Original Script Award of Wuhan New Youth Drama Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
+* Outstanding Original Script Award of Wuhan New Youth Theatre Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
 * First prize in the “New China 70 Years and Struggle for a New Era” Film Contest (‘Daybreak’) (Director), 12/2019
 * Third Prize in the Drama Contest at the Wuhan University Golden Autumn Arts Festival (‘The Last Dialogue in the Tanjong Kedai Forest’) (Director), 11/2019
 
