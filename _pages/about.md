@@ -11,7 +11,7 @@ Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](
 
 Education
 ======
-* PhD in Artificial Intelligence and Creative Media, The Hong Kong University of Science and Technology, 09/2025 - present
+* PhD in Artificial Intelligence and Film Studies, The Hong Kong University of Science and Technology, 09/2025 - present
 * MSc in Computer Science, The University of Hong Kong, 09/2022 - 12/2023
 * BEng in Computer Science and Technology, Wuhan University, 09/2018 - 06/2022
 
