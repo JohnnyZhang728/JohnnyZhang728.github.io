@@ -36,6 +36,7 @@ collection: portfolio
 • Semi-finalist of the Madrid Arthouse Film Festival <br>
 • Semi-finalist of the Darkland Munich Film Awards <br>
 • Semi-finalist of the ICEBERG Film Awards <br>
+• Semi-finalist of the FilmHaus <br>
 • Monthly Picks of the Rome Prisma Film Awards <br>
 • Shortlisted for the Asian Art Film Awards Short TV Series Ceremony <br>
 • Preliminary shortlist of the Pioneer Art Film Festival <br>
