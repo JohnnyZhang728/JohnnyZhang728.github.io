@@ -29,9 +29,9 @@ Research Internship
 
 Activities
 ======
+* Co-Organizer and Curator for [HKUST AI Film Festival](https://cveu.github.io/event/hkustfilm2025.html)
 * Trainee of Digital Theatre Program Training Camp of the Beijing International Youth Theatre Festival, [National Theater of China](http://www.ntcc.com.cn/), 08/2025
 * Volunteer of the 19th [FIRST International Film Festival](https://www.firstfilm.org.cn/en/), 07/2025
-* Co-Organizer and Volunteer Co-Chair for 1st [HKUST AI Film Festival](https://cveu.github.io/event/hkustfilm2025.html), 04/2025
 
 Selected Awards in Film & Theatre
 ======
