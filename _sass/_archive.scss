@@ -373,7 +373,8 @@
 
 // First portfolio item poster - set to 50% width for vertical poster
 .archive .list__item:first-child .archive__item--portfolio .portfolio__poster {
-  max-width: 50%;
+  width: 50% !important;
+  max-width: 50% !important;
   
   img {
     width: 100%;
