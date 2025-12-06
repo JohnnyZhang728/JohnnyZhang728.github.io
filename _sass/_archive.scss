@@ -373,3 +373,17 @@
     display: block;
   }
 }
+
+.portfolio__image-container {
+  width: 50%;
+  max-width: 50%;
+  margin: 1em 0;
+  box-sizing: border-box;
+  
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: $border-radius;
+    display: block;
+  }
+}

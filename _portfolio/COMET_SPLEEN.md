@@ -6,7 +6,9 @@ header:
   poster: comet_spleen_poster.png
 ---
 
-<img src='/images/poster.jpg'>
+<div class="portfolio__image-container">
+  <img src='/images/poster.jpg'>
+</div>
 
 • Position: Director, Scriptwriter, Editor
 
