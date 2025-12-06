@@ -1,0 +1,42 @@
+{% include base_path %}
+
+{% if post.header.poster %}
+  {% capture poster %}{{ post.header.poster }}{% endcapture %}
+{% else %}
+  {% assign poster = null %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item archive__item--portfolio" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+    
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+    
+    {% if poster %}
+      <div class="portfolio__poster">
+        <img src=
+          {% if poster contains "://" %}
+            "{{ poster }}"
+          {% else %}
+            "{{ poster | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="{{ title }}">
+      </div>
+    {% endif %}
+  </article>
+</div>
+

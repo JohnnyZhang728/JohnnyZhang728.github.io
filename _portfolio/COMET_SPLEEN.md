@@ -1,8 +1,9 @@
 ---
 title: "Short Film: Comet Spleen"
-excerpt: "Logline: Two lonely women share an apartment but occupy it at different times, their presence lingering in the room like an ungraspable connection felt only through imagination.
- <br/><img src='/images/comet_spleen_poster.png'>"
+excerpt: "Logline: Two lonely women share an apartment but occupy it at different times, their presence lingering in the room like an ungraspable connection felt only through imagination."
 collection: portfolio
+header:
+  poster: comet_spleen_poster.png
 ---
 
 • Position: Director, Scriptwriter, Editor

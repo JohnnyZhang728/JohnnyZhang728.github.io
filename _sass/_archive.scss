@@ -345,3 +345,38 @@
   gap: 0.5em;
   flex-wrap: wrap;
 }
+
+/*
+   Portfolio layout
+   ========================================================================== */
+
+.archive__item--portfolio {
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.portfolio__poster {
+  margin: 1em 0;
+  
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: $border-radius;
+    display: block;
+  }
+}
+
+// First portfolio item poster - set to 50% width for vertical poster
+.archive .list__item:first-child .archive__item--portfolio .portfolio__poster {
+  max-width: 50%;
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
