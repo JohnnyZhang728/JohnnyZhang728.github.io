@@ -359,10 +359,10 @@
     border-bottom: none;
   }
 
-  // Set excerpt container width to 2/3 of page width
+  // Set excerpt container width to 3/4 of page width
   .portfolio__excerpt {
-    width: 66.67% !important;
-    max-width: 66.67% !important;
+    width: 75% !important;
+    max-width: 75% !important;
     box-sizing: border-box;
   }
 }
