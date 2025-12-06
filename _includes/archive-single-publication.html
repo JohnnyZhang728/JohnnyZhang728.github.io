@@ -35,15 +35,27 @@
         {% if post.collection == 'publications' %}
           <p class="publication__meta">
             {% if post.authors %}
-              {{ post.authors }}
+              {% assign authors_text = post.authors %}
+              {% assign authors_text = authors_text | replace: 'Zeyu Zhang', '<strong>Zeyu Zhang</strong>' %}
+              {{ authors_text }}
             {% elsif post.citation %}
               {% assign citation_parts = post.citation | split: '"' %}
               {% if citation_parts.size > 0 %}
-                {{ citation_parts[0] | strip }}
+                {% assign authors_text = citation_parts[0] | strip %}
+                {% assign authors_text = authors_text | replace: 'Zeyu Zhang', '<strong>Zeyu Zhang</strong>' %}
+                {{ authors_text }}
               {% endif %}
             {% endif %}
             {% if post.venue %}
-              <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+              <br>{{ post.venue }}, 
+              {% if post.date %}
+                {% assign date_parts = post.date | split: "-" %}
+                {% if date_parts.size == 1 %}
+                  {{ post.date }}
+                {% else %}
+                  {{ post.date | date: "%Y" }}
+                {% endif %}
+              {% endif %}
             {% endif %}
           </p>
         {% endif %}
@@ -56,13 +68,13 @@
           {% if post.paperurl %}
             <a href="{{ post.paperurl }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">[Paper]</a>
           {% else %}
-            <a href="{{ base_path }}{{ post.url }}" class="btn btn--small">[Paper]</a>
+            <a href="{{ base_path }}/publications/" class="btn btn--small">[Paper]</a>
           {% endif %}
           
           {% if post.link %}
             <a href="{{ post.link }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">[Webpage]</a>
           {% else %}
-            <a href="{{ base_path }}{{ post.url }}" class="btn btn--small">[Webpage]</a>
+            <a href="{{ base_path }}/publications/" class="btn btn--small">[Webpage]</a>
           {% endif %}
         </div>
       </div>
