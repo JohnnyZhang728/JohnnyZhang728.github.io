@@ -29,7 +29,7 @@ Research Internship
 * 01/2025 - 08/2025: Remote Research Intern
   * VVAI Lab, [Texas A&M University](https://www.tamu.edu/)
   * Supervisor: Prof. [Wai Tong](https://wtong2017.github.io/)
-  * Duties included: Develop an AI-driven system to generate real-time American Sign Language (ASL) during concerts, providing accessibility to Deaf and hard-of-hearing audiences.
+  * Duties included: Develop an AI-driven system to generate real-time American Sign Language during concerts, providing accessibility to Deaf and hard-of-hearing audiences.
 * 10/2023 - 08/2024: Research Assistant
   * Metaverse Innovation Lab, [The University of Hong Kong](https://www.hku.hk/)
   * Supervisor: Dr. [Loretta Choi](https://i.cs.hku.hk/~ykchoi/)
@@ -38,7 +38,7 @@ Research Internship
 
 Activities
 ======
-* Co-Organizer and Curator for [HKUST AI Film Festival](https://cveu.github.io/event/hkustfilm2025.html)
+* Co-Organizer and Curator for [HKUST AI Film Festival](https://cveu.github.io/event/hkustfilm2026.html)
 * Trainee of Digital Theatre Program Training Camp of the Beijing International Youth Theatre Festival, [National Theater of China](http://www.ntcc.com.cn/), 08/2025
 * Volunteer of the 19th [FIRST International Film Festival](https://www.firstfilm.org.cn/en/), 07/2025
 
