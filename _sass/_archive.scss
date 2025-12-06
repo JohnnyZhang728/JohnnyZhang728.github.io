@@ -381,13 +381,30 @@
   }
 }
 
-// Second and third portfolio items - set poster width to 2/3
-.archive .list__item:nth-child(2) .archive__item--portfolio .portfolio__poster,
-.archive .list__item:nth-child(3) .archive__item--portfolio .portfolio__poster {
-  max-width: 66.67%;
+// First portfolio item (Comet Spleen) - explicitly keep at 1/2 (50%)
+.archive .list__item:first-of-type .archive__item--portfolio .portfolio__poster {
+  max-width: 50% !important;
 
   @include breakpoint($small) {
-    width: 66.67%;
+    width: 50% !important;
+  }
+}
+
+// Second portfolio item (Blowin' in the Wind) - set poster width to 2/3
+.archive .list__item:nth-of-type(2) .archive__item--portfolio .portfolio__poster {
+  max-width: 66.67% !important;
+
+  @include breakpoint($small) {
+    width: 66.67% !important;
+  }
+}
+
+// Third portfolio item (Plum Rain) - set poster width to 2/3
+.archive .list__item:nth-of-type(3) .archive__item--portfolio .portfolio__poster {
+  max-width: 66.67% !important;
+
+  @include breakpoint($small) {
+    width: 66.67% !important;
   }
 }
 
