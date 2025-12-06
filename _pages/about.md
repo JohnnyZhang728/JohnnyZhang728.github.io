@@ -33,27 +33,24 @@ Activities
 * Trainee of Digital Theatre Program Training Camp of the Beijing International Youth Theatre Festival, [National Theater of China](http://www.ntcc.com.cn/), 08/2025
 * Volunteer of the 19th [FIRST International Film Festival](https://www.firstfilm.org.cn/en/), 07/2025
 
-Selected Awards in Film & Theatre
-======
-  **For Short Film COMET SPLEEN (Director/Scriptwriter/Editor):**
-* Best Production Design of the Busan New Wave Short Film Festival, 10/2025
-* Best Production Design of the Incheon International Short Film Festival, 10/2025
-* Special Jury Award of the Korea International Short Film Festival, 10/2025
-* Best Feminist Film of the Brooklyn International Short Awards, 06/2025
-* Best First Time Director of the Cleveland Arthouse Film Awards, 05/2025
-* Excellent Award of the Hong Kong International Youth Film Festival, 04/2025
-* Honorable Mention of the Hollywood New Directors, 03/2025
-* Honorable Mention of the Greece International Film Festival, 03/2025
-* Finalist of the 58th WorldFest-Houston International Film Festival, 04/2025
-* Finalist of the Paris Women CineFest, 04/2025
-* Finalist of the Moscow Asian Film Festival, 03/2025
-* Official Selection of the Munich New Wave Short Film Festival, 03/2025
-* Official Selection of the Shanghai International Short Week Summer Script Competition, 08/2024
-<br> <br>
-**For Others:**
-* Outstanding Original Script Award of Wuhan New Youth Theatre Festival (‘An Evening of the Plum Rain Season’) (Scriptwriter), 06/2022
-* First prize in the “New China 70 Years and Struggle for a New Era” Film Contest (‘Daybreak’) (Director), 12/2019
-* Third Prize in the Drama Contest at the Wuhan University Golden Autumn Arts Festival (‘The Last Dialogue in the Tanjong Kedai Forest’) (Director), 11/2019
+Selected Awards in Film
+
+* Excellent Award of the Hong Kong International Youth Film Festival
+* Best First Time Director of the Cleveland Arthouse Film Awards
+* Best Feminist Film of the Brooklyn International Short Awards
+* Special Jury Award of the Korea International Short Film Festival
+* Best Production Design of the Busan New Wave Short Film Festival
+* Best Production Design of the Incheon International Short Film Festival
+* Honorable Mention of the Hollywood New Directors
+* Honorable Mention of the Greece International Film Festival
+* Finalist of the 58th WorldFest-Houston International Film Festival
+* Finalist of the Moscow Asian Film Festival
+* Official Selection of the Atlantic International Film Festival
+* Official Selection of the Munich New Wave Short Film Festival
+* Official Selection of the 15th Macau International Micro-Movie Festival
+
+
+
 
 
 
