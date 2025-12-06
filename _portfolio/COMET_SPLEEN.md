@@ -1,18 +1,18 @@
 ---
 title: "Short Film: Comet Spleen"
 excerpt: "Logline: Two lonely women share an apartment but occupy it at different times, their presence lingering in the room like an ungraspable connection felt only through imagination.
- <br/><img src='/images/Comet_Spleen_Cover2.JPG'>"
+ <br/><img src='/images/comet_spleen_poster.png'>"
 collection: portfolio
 ---
 
 • Position: Director, Scriptwriter, Editor <br> <br>
 
-🏆 Best Production Design of the Busan New Wave Short Film Festival <br>
-🏆 Best Production Design of the Incheon International Short Film Festival <br>
-🏆 Special Jury Award of the Korea International Short Film Festival <br>
-🏆 Excellent Award of the Hong Kong International Youth Film Festival <br>
 🏆 Best First Time Director of the Cleveland Arthouse Film Awards <br>
 🏆 Best Feminist Film of the Brooklyn International Short Awards <br>
+🏆 Excellent Award of the Hong Kong International Youth Film Festival <br>
+🏆 Special Jury Award of the Korea International Short Film Festival <br>
+🏆 Best Production Design of the Busan New Wave Short Film Festival <br>
+🏆 Best Production Design of the Incheon International Short Film Festival <br>
 🏅 Honorable Mention of the Hollywood New Directors <br>
 🏅 Honorable Mention of the Greece International Film Festival <br>
 🏅 Honorable Mention of the Athens International Monthly Art Film Festival <br>
@@ -21,6 +21,7 @@ collection: portfolio
 🏅 Finalist of the Paris Women CineFest <br>
 🌟 Official Selection of the Atlantic International Film Festival <br>
 🌟 Official Selection of the Munich New Wave Short Film Festival <br>
+🌟 Official Selection of the 15th Macau International Micro-Movie Festival <br>
 🌟 Official Selection of the RED Movie Award <br>
 🌟 Official Selection of the HER Film Festival <br>
 🌟 Official Selection of the Angelic Stars International Film Festival <br>
