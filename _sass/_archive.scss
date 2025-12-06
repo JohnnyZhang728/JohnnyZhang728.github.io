@@ -361,15 +361,22 @@
 }
 
 .portfolio__poster {
-  margin: 1em 0;
-  width: 50%;
+  flex-shrink: 0;
+  margin-bottom: 1em;
+  width: 100%;
   max-width: 50%;
   box-sizing: border-box;
-  
+
+  @include breakpoint($small) {
+    width: 50%;
+    margin-bottom: 0;
+  }
+
   img {
     width: 100%;
     height: auto;
     border-radius: $border-radius;
+    object-fit: cover;
     display: block;
   }
 }
