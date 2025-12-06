@@ -244,3 +244,83 @@
     }
   }
 }
+
+/*
+   Publication layout
+   ========================================================================== */
+
+.archive__item--publication {
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.publication__wrapper {
+  @include clearfix();
+  display: flex;
+  flex-direction: column;
+
+  @include breakpoint($small) {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 1.5em;
+  }
+
+  // When there's no teaser, content should take full width
+  &--no-teaser {
+    .publication__content {
+      width: 100%;
+    }
+  }
+}
+
+.publication__teaser {
+  flex-shrink: 0;
+  margin-bottom: 1em;
+  width: 100%;
+  max-width: 200px;
+
+  @include breakpoint($small) {
+    width: 200px;
+    margin-bottom: 0;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: $border-radius;
+    object-fit: cover;
+  }
+}
+
+.publication__content {
+  flex: 1;
+  min-width: 0;
+
+  .archive__item-title {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-size: $type-size-4;
+
+    strong {
+      font-weight: bold;
+    }
+  }
+}
+
+.publication__meta {
+  margin: 0.5em 0;
+  font-size: $type-size-6;
+  line-height: 1.6;
+}
+
+.publication__buttons {
+  margin-top: 1em;
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}

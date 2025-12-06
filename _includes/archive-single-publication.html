@@ -1,0 +1,72 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = null %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item archive__item--publication" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="publication__wrapper {% unless teaser %}publication__wrapper--no-teaser{% endunless %}">
+      {% if teaser %}
+        <div class="publication__teaser">
+          <img src=
+            {% if teaser contains "://" %}
+              "{{ teaser }}"
+            {% else %}
+              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+            {% endif %}
+            alt="{{ title }}">
+        </div>
+      {% endif %}
+
+      <div class="publication__content">
+        <h2 class="archive__item-title" itemprop="headline">
+          <strong>{{ title }}</strong>
+        </h2>
+        
+        {% if post.collection == 'publications' %}
+          <p class="publication__meta">
+            {% if post.authors %}
+              {{ post.authors }}
+            {% elsif post.citation %}
+              {% assign citation_parts = post.citation | split: '"' %}
+              {% if citation_parts.size > 0 %}
+                {{ citation_parts[0] | strip }}
+              {% endif %}
+            {% endif %}
+            {% if post.venue %}
+              <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            {% endif %}
+          </p>
+        {% endif %}
+
+        {% if post.excerpt %}
+          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+        {% endif %}
+        
+        <div class="publication__buttons">
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">[Paper]</a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" class="btn btn--small">[Paper]</a>
+          {% endif %}
+          
+          {% if post.link %}
+            <a href="{{ post.link }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">[Webpage]</a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" class="btn btn--small">[Webpage]</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </article>
+</div>
+
