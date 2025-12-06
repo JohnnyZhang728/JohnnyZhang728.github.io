@@ -358,6 +358,13 @@
   &:last-child {
     border-bottom: none;
   }
+
+  // Set excerpt width to 2/3 of page width
+  .archive__item-excerpt {
+    width: 66.67%;
+    max-width: 66.67%;
+    box-sizing: border-box;
+  }
 }
 
 .portfolio__poster {
