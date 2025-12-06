@@ -8,11 +8,15 @@ redirect_from:
 ---
 
 Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). I pursue my Ph.D. in Artificial Intelligence and Film Studies at the [Academy of Interdisciplinary Studies](https://ais.hkust.edu.hk/). <br>
+
 My research interest focuses on AI for Film. To be more specific, I aim to:
+
 * Infuse cinematic aesthetic, director intention, and narrative meaning into generative AI models.
 * Develop agentic AI systems specifically for high-quality film production.
-* Inherit and evolve classical film theories (Montage Theory, Realist Film Theory, and Film Semiotics) within the context of AI creation, using them to drive, inspire, and guide technological innovation.<br>
+* Inherit and evolve classical film theories (Montage Theory, Realist Film Theory, and Film Semiotics) within the context of AI creation, using them to drive, inspire, and guide technological innovation.
+
 My vision is to advance the field of AI-for-Film by pushing the frontiers of core AI technology. <br>
+
 I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu.zhang@connect.ust.hk).
 
 Education
