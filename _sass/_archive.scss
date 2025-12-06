@@ -381,6 +381,16 @@
   }
 }
 
+// Second and third portfolio items - set poster width to 2/3
+.archive .list__item:nth-child(2) .archive__item--portfolio .portfolio__poster,
+.archive .list__item:nth-child(3) .archive__item--portfolio .portfolio__poster {
+  max-width: 66.67%;
+
+  @include breakpoint($small) {
+    width: 66.67%;
+  }
+}
+
 .portfolio__image-container {
   width: 66.67%;
   max-width: 66.67%;
