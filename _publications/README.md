@@ -46,7 +46,7 @@ header:
 | `category` | ✅ | 分类：`conferences`, `manuscripts`, `books` | `conferences` |
 | `permalink` | ✅ | 唯一URL路径 | `/publications/SPPNET` |
 | `excerpt` | ✅ | 摘要（显示在列表页） | `'论文摘要...'` |
-| `date` | ✅ | 发表日期 | `2024-01-01` |
+| `date` | ✅ | 发表日期（必须使用完整格式YYYY-MM-DD，显示时只会显示年份） | `2024-01-01` |
 | `venue` | ✅ | 会议/期刊名称 | `'MICCAI-MLMI'` |
 | `link` | ❌ | 论文网页链接 | `https://doi.org/...` |
 | `paperurl` | ❌ | PDF文件链接 | `'http://.../paper.pdf'` |
@@ -166,14 +166,14 @@ Our method achieves state-of-the-art performance...
 
 1. **文件名**：使用大写字母和下划线，例如 `MY_PAPER.md`
 2. **permalink**：必须唯一，建议与文件名对应（去掉 `.md`）
-3. **日期格式**：必须使用 `YYYY-MM-DD` 格式
+3. **日期格式**：必须使用 `YYYY-MM-DD` 格式（如 `2023-10-10`），不能只写年份。虽然显示时只会显示年份，但Jekyll需要完整的日期格式才能正确解析。
 4. **图片路径**：只需要文件名，系统会自动从 `images/` 目录加载
 5. **PDF路径**：如果放在 `files/` 目录，使用完整URL：`http://JohnnyZhang728.github.io/files/filename.pdf`
 6. **按钮行为**：
    - 如果有 `paperurl`，[Paper] 按钮会跳转到PDF
-   - 如果没有 `paperurl`，[Paper] 按钮会跳转到详情页
+   - 如果没有 `paperurl`，[Paper] 按钮会跳转到publications列表页
    - 如果有 `link`，[Webpage] 按钮会跳转到外部链接
-   - 如果没有 `link`，[Webpage] 按钮会跳转到详情页
+   - 如果没有 `link`，[Webpage] 按钮会跳转到publications列表页
 
 ---
 
