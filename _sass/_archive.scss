@@ -65,6 +65,15 @@
   & + p {
     text-indent: 0;
   }
+
+  // Limit image size in portfolio items
+  img {
+    max-width: 400px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 1em 0;
+  }
 }
 
 .archive__item-teaser {
