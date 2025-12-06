@@ -1,7 +1,9 @@
 ---
 title: "Digital Theatre: Blowin' in the Wind"
-excerpt: "A digital theatre that integrates AI technology into theater, performed at the National Theatre of China on August 20, 2025.<br/><img src='/images/wind_cover.jpg'>"
+excerpt: "A digital theatre that integrates AI technology into theater, performed at the National Theatre of China on August 20, 2025."
 collection: portfolio
+header:
+  poster: wind_cover.jpg
 ---
 
 • Theatre Title (Chinese): 风与风之间 <br> 
@@ -9,7 +11,7 @@ collection: portfolio
 • Performance Time: August 20, 2025 <br> 
 • Duration: 20 minutes <br> 
 • Venue:  National Theater Company of China <br> 
-• Co-creation Credits: Sitong Cheng｜Yufan Shen｜**Zeyu Zhang**｜Yilin He <br> 
+• Co-creation Credits: **Zeyu Zhang**｜Sitong Cheng｜Yufan Shen｜Yilin He <br> 
 • Three Theatre Keywords: Jon Fosse, AI, Documentary Theatre <br> 
 • Creative Statement: Is genuine communication possible between people? Can we find a stance of resistance in the face of nihilism? <br> 
 • AI technology used in theatre: Real-time object detection AI model creates an interactive theatre environment.

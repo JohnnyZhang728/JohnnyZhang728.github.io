@@ -362,22 +362,14 @@
 
 .portfolio__poster {
   margin: 1em 0;
+  width: 50%;
+  max-width: 50%;
+  box-sizing: border-box;
   
   img {
     width: 100%;
     height: auto;
     border-radius: $border-radius;
     display: block;
-  }
-}
-
-// First portfolio item poster - set to 50% width for vertical poster
-.archive .list__item:first-child .archive__item--portfolio .portfolio__poster {
-  width: 50% !important;
-  max-width: 50% !important;
-  
-  img {
-    width: 100%;
-    height: auto;
   }
 }
