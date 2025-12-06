@@ -24,7 +24,7 @@ Research Internship
 * 10/2023 - 08/2024: Research Assistant
   * Metaverse Innovation Lab, [The University of Hong Kong](https://www.hku.hk/)
   * Supervisor: Dr. [Loretta Choi](https://i.cs.hku.hk/~ykchoi/)
-  * Duties included: I worked on two projects, one was a Drone-to-Drone Tracking Project, and the other was a 3D Reconstruction Project. I utilized knowledge and techniques in computer vision and computer graphics to implement these two projects.
+  * Duties included: Worked on two projects, one was a Drone-to-Drone Tracking Project, and the other was a 3D Reconstruction Project.
 
 
 Activities
