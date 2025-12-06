@@ -76,6 +76,13 @@
   }
 }
 
+// First portfolio item image - set to 50% width for vertical poster
+.archive .list__item:first-child .archive__item-excerpt img {
+  max-width: 50%;
+  width: 50%;
+  height: auto;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
