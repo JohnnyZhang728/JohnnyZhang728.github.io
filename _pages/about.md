@@ -55,6 +55,7 @@ Selected Awards in Film
 * Honorable Mention of the Greece International Film Festival
 * Finalist of the 58th WorldFest-Houston International Film Festival
 * Finalist of the Moscow Asian Film Festival
+* Finalist of the Paris Women CineFest
 * Official Selection of the Atlantic International Film Festival
 * Official Selection of the Munich New Wave Short Film Festival
 * Official Selection of the 15th Macau International Micro-Movie Festival
