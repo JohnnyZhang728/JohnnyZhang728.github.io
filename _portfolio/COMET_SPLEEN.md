@@ -31,6 +31,7 @@ header:
 🌟 Official Selection of the HER Film Festival <br>
 🌟 Official Selection of the Angelic Stars International Film Festival <br>
 🌟 Official Selection of the Frames of New York Film Festival <br>
+🌟 Official Selection of the Indie Artists Film Festival <br>
 • Semi-finalist of the New York International Women Festival <br>
 • Semi-finalist of the San Francisco Women Film Festival <br>
 • Semi-finalist of the Tokyo Women Film Festival <br>
