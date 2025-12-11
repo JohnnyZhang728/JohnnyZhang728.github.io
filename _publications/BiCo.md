@@ -3,6 +3,7 @@ title: "Composing Concepts from Images and Videos via Concept-prompt Binding"
 collection: publications
 category: conferences  # 或 manuscripts, books
 link: https://refkxh.github.io/BiCo_Webpage/  # 论文的网页链接（可选）
+paperurl: 'https://arxiv.org/abs/2512.09824'
 permalink: /publications/BiCo
 date: 2025-12-07  # 发表日期，格式：YYYY-MM-DD
 venue: 'arXiv Preprint'
