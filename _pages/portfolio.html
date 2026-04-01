@@ -7,8 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign comet_post = site.portfolio | where: "title", "Short Film: Comet Spleen" | first %}
+{% assign ash_post = site.portfolio | where: "title", "AI Film: Ash Boat" | first %}
+
+{% assign post = comet_post %}
+{% include archive-single-portfolio.html %}
+
+{% assign post = ash_post %}
+{% include archive-single-portfolio.html %}
 
 {% for post in site.portfolio %}
+  {% unless post.title == "Short Film: Comet Spleen" or post.title == "AI Film: Ash Boat" %}
   {% include archive-single-portfolio.html %}
+  {% endunless %}
 {% endfor %}
 

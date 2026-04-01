@@ -1,6 +1,6 @@
 ---
 title: "Theatre: An Evening of the Plum Rain Season"
-excerpt: "Adapted into an immersive environmental theatre in 2023, and performed at the Luojia Mountain Theater, Wuhan University."
+excerpt: "Position: Scriptwriter. <br> Adapted into an immersive environmental theatre in 2023, and performed at the Luojia Mountain Theater, Wuhan University."
 collection: portfolio
 header:
   poster: plum_rain.JPG
