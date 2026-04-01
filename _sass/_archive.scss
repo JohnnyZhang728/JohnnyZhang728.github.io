@@ -397,21 +397,21 @@
   }
 }
 
-// Second portfolio item (Blowin' in the Wind) - set poster width to 2/3
+// Second portfolio item (ASH BOAT) - keep poster width at 1/2 (50%)
 .archive .list__item:nth-of-type(2) .archive__item--portfolio .portfolio__poster {
-  max-width: 66.67% !important;
+  max-width: 50% !important;
 
   @include breakpoint($small) {
-    width: 66.67% !important;
+    width: 50% !important;
   }
 }
 
-// Third portfolio item (Plum Rain) - set poster width to 2/3
+// Third portfolio item (Blowin' in the Wind) - keep poster width at 1/2 (50%)
 .archive .list__item:nth-of-type(3) .archive__item--portfolio .portfolio__poster {
-  max-width: 66.67% !important;
+  max-width: 50% !important;
 
   @include breakpoint($small) {
-    width: 66.67% !important;
+    width: 50% !important;
   }
 }
 
