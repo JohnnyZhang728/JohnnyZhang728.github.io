@@ -7,7 +7,7 @@ header:
 ---
 
 <div class="portfolio__image-container">
-  <div class="portfolio__still-grid" style="display:grid; grid-template-columns:repeat(3, minmax(0, 1fr)); gap:12px;">
+  <div class="portfolio__still-grid" style="display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:12px;">
     <img src='/images/ash_boat_still_frames/Photo%201%20Helen3-.jpg' alt='Ash Boat still frame 1' style="width:100%; height:auto; display:block;">
     <img src='/images/ash_boat_still_frames/Photo%202%2003-03_Helen--1772293970249.jpg' alt='Ash Boat still frame 2' style="width:100%; height:auto; display:block;">
     <img src='/images/ash_boat_still_frames/Photo%203%2015-17.1-1772631319343.jpg' alt='Ash Boat still frame 3' style="width:100%; height:auto; display:block;">
