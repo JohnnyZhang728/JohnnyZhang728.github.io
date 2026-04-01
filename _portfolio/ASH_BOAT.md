@@ -19,6 +19,8 @@ header:
 
 • Position: Technical Director <br>
 
+• Production Year: 2026 <br>
+
 • Running Time: 20 min <br> 
 
 • Story Synopsis: ASH BOAT unfolds in a near-future world where AI can accompany humans but cannot truly feel emotion. After the death of her grandmother, a teenage girl, An, is placed under the care of Helen, a composed female AI undergoing her final evaluation task. Over the forty-nine days of mourning, Helen tries to ease An’s grief by reconstructing comforting illusions, hoping to earn a promotion and gain tactile perception. An, meanwhile, pretends to recover in order to free herself from guardianship.
