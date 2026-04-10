@@ -56,6 +56,9 @@
                   {{ post.date | date: "%Y" }}
                 {% endif %}
               {% endif %}
+              {% if post.highlight %}
+                <span class="publication__badge publication__badge--highlight">Highlight</span>
+              {% endif %}
             {% endif %}
           </p>
         {% endif %}

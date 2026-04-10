@@ -7,6 +7,7 @@ paperurl: 'https://arxiv.org/abs/2512.09824'
 permalink: /publications/BiCo
 date: 2026-06-07  # 发表日期，格式：YYYY-MM-DD
 venue: 'CVPR'
+highlight: true
 authors: 'Xianghao Kong, Zeyu Zhang, Yuwei Guo, Zhuoran Zhao, Songchun Zhang, Anyi Rao'  # 作者列表（可选，如果没有会从citation中提取）
 header:
   teaser: teaser_bico.jpg  # 图片文件名（放在images目录下，可选）
