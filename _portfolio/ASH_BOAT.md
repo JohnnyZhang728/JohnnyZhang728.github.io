@@ -3,7 +3,7 @@ title: "AI Film: Ash Boat"
 excerpt: "Position: Technical Director. <br> Logline: After her grandmother's death, a lonely girl is paired with an emotionally void female AI for a traditional 49-day farewell. In the space between grief and code, they both start to question what it truly means to love."
 collection: portfolio
 header:
-  poster: ash_boat_poster.PNG
+  poster: ash_boat_poster2.png
 ---
 
 <div class="portfolio__image-container">
@@ -18,6 +18,13 @@ header:
 </div>
 
 • Position: Technical Director <br>
+
+🏆 Best AI Feature of Bali International Ai Film Festival <br>
+🏆 Best Human-AI Collaboration Award of HKUST AI Film Festival <br>
+🏅 Honorable Mention of DASEIN AI Film Festival Best AI-Integrated Narrative Award <br>
+🌟 Official Selection of AI Film Awards Cannes <br>
+🌟 Official Selection of Toronto International Nollywood Film Festival <br>
+🌟 Official Selection of NewFilmmakers NY <br>
 
 • Production Year: 2026 <br>
 

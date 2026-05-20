@@ -12,42 +12,42 @@ header:
 
 • Position: Director, Scriptwriter, Editor
 
-🏆 Best First Time Director of the Cleveland Arthouse Film Awards <br>
-🏆 Best Feminist Film of the Brooklyn International Short Awards <br>
-🏆 Excellent Award of the Hong Kong International Youth Film Festival <br>
-🏆 Special Jury Award of the Korea International Short Film Festival <br>
-🏆 Best Production Design of the Busan New Wave Short Film Festival <br>
-🏆 Best Production Design of the Incheon International Short Film Festival <br>
-🏅 Honorable Mention of the Hollywood New Directors <br>
-🏅 Honorable Mention of the Greece International Film Festival <br>
-🏅 Honorable Mention of the Athens International Monthly Art Film Festival <br>
+🏆 Best First Time Director of Cleveland Arthouse Film Awards <br>
+🏆 Best Feminist Film of Brooklyn International Short Awards <br>
+🏆 Excellent Award of Hong Kong International Youth Film Festival <br>
+🏆 Special Jury Award of Korea International Short Film Festival <br>
+🏆 Best Production Design of Busan New Wave Short Film Festival <br>
+🏆 Best Production Design of Incheon International Short Film Festival <br>
+🏅 Honorable Mention of Hollywood New Directors <br>
+🏅 Honorable Mention of Greece International Film Festival <br>
+🏅 Honorable Mention of Athens International Monthly Art Film Festival <br>
 🏅 Finalist of the 58th WorldFest-Houston International Film Festival <br>
-🏅 Finalist of the Moscow Asian Film Festival <br>
-🏅 Finalist of the Paris Women CineFest <br>
-🌟 Official Selection of the Atlantic International Film Festival <br>
-🌟 Official Selection of the Munich New Wave Short Film Festival <br>
+🏅 Finalist of Moscow Asian Film Festival <br>
+🏅 Finalist of Paris Women CineFest <br>
+🌟 Official Selection of Atlantic International Film Festival <br>
+🌟 Official Selection of Munich New Wave Short Film Festival <br>
 🌟 Official Selection of the 15th Macau International Micro-Movie Festival <br>
-🌟 Official Selection of the RED Movie Award <br>
-🌟 Official Selection of the HER Film Festival <br>
-🌟 Official Selection of the Angelic Stars International Film Festival <br>
-🌟 Official Selection of the Frames of New York Film Festival <br>
-🌟 Official Selection of the Indie Artists Film Festival <br>
-• Semi-finalist of the New York International Women Festival <br>
-• Semi-finalist of the San Francisco Women Film Festival <br>
-• Semi-finalist of the Tokyo Women Film Festival <br>
-• Semi-finalist of the California Women Film Festival <br>
-• Semi-finalist of the Berlin Indie Awards <br>
-• Semi-finalist of the Rome International Short Festival <br>
-• Semi-finalist of the Kyoto Independent Film Festival <br>
-• Semi-finalist of the Tokyo ShortFest <br>
-• Semi-finalist of the Madrid Arthouse Film Festival <br>
-• Semi-finalist of the Darkland Munich Film Awards <br>
-• Semi-finalist of the ICEBERG Film Awards <br>
-• Semi-finalist of the FilmHaus <br>
-• Monthly Picks of the Rome Prisma Film Awards <br>
-• Shortlisted for the Asian Art Film Awards Short TV Series Ceremony <br>
-• Preliminary shortlist of the Pioneer Art Film Festival <br>
-• Official Selection of the Shanghai International Short Week Summer Script Competition
+🌟 Official Selection of RED Movie Award <br>
+🌟 Official Selection of HER Film Festival <br>
+🌟 Official Selection of Angelic Stars International Film Festival <br>
+🌟 Official Selection of Frames of New York Film Festival <br>
+🌟 Official Selection of Indie Artists Film Festival <br>
+• Semi-finalist of New York International Women Festival <br>
+• Semi-finalist of San Francisco Women Film Festival <br>
+• Semi-finalist of Tokyo Women Film Festival <br>
+• Semi-finalist of California Women Film Festival <br>
+• Semi-finalist of Berlin Indie Awards <br>
+• Semi-finalist of Rome International Short Festival <br>
+• Semi-finalist of Kyoto Independent Film Festival <br>
+• Semi-finalist of Tokyo ShortFest <br>
+• Semi-finalist of Madrid Arthouse Film Festival <br>
+• Semi-finalist of Darkland Munich Film Awards <br>
+• Semi-finalist of ICEBERG Film Awards <br>
+• Semi-finalist of FilmHaus <br>
+• Monthly Picks of Rome Prisma Film Awards <br>
+• Shortlisted for Asian Art Film Awards Short TV Series Ceremony <br>
+• Preliminary shortlist of Pioneer Art Film Festival <br>
+• Official Selection of Shanghai International Short Week Summer Script Competition
 
 • Genre: Art/Experimental/Feminism <br>
 

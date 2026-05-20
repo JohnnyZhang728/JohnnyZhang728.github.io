@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). My research interest includes Generative AI, Visual Intelligence, and AI for Film. I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu.zhang@connect.ust.hk).
+Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). My research interest includes Generative AI, Video Generation, and AI for Film. I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu.zhang@connect.ust.hk).
 
 Education
 ======
