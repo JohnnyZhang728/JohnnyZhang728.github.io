@@ -30,9 +30,8 @@ Research Internship
 Activities
 ======
 * Co-Chair and Curator for [HKUST AI Film Festival](https://cveu.github.io/event/hkustfilm2026.html)
-* Reviewer of ECCV 2026
-* Reviewer of CVPR 2026
-* Student Volunteer of SIGGRAPH ASIA 2025
+* Reviewer of CVPR, ECCV, SIGGRAPH Asia
+* Student Volunteer of SIGGRAPH Asia 2025
 * 1st Trainee of Digital Theatre Program Training Camp of the Beijing International Youth Theatre Festival, [National Theater of China](http://www.ntcc.com.cn/)
 * Volunteer of the 19th [FIRST International Film Festival](https://www.firstfilm.org.cn/en/)
 
