@@ -38,19 +38,17 @@ Activities
 Selected Awards in Film
 ======
 
-* Excellent Award of the Hong Kong International Youth Film Festival
-* Best First Time Director of the Cleveland Arthouse Film Awards
-* Best Feminist Film of the Brooklyn International Short Awards
-* Special Jury Award of the Korea International Short Film Festival
-* Best Production Design of the Busan New Wave Short Film Festival
-* Best Production Design of the Incheon International Short Film Festival
-* Honorable Mention of the Hollywood New Directors
-* Honorable Mention of the Greece International Film Festival
+* Excellent Award of Hong Kong International Youth Film Festival
+* Best First Time Director of Cleveland Arthouse Film Awards
+* Best Feminist Film of Brooklyn International Short Awards
+* Special Jury Award of Korea International Short Film Festival
+* Best Production Design of Busan New Wave Short Film Festival
+* Best Production Design of Incheon International Short Film Festival
+* Best AI Feature of Bali International AI Film Festival
+* Best Human-AI Collaboration Award of HKUST AI Film Festival
+* Honorable Mention of Hollywood New Directors
+* Honorable Mention of Greece International Film Festival
 * Finalist of the 58th WorldFest-Houston International Film Festival
-* Finalist of the Moscow Asian Film Festival
-* Finalist of the Paris Women CineFest
-* Official Selection of the Atlantic International Film Festival
-* Official Selection of the Munich New Wave Short Film Festival
 * Official Selection of the 15th Macau International Micro-Movie Festival
 
 

@@ -19,12 +19,14 @@ header:
 
 • Position: Technical Director <br>
 
-🏆 Best AI Feature of Bali International Ai Film Festival <br>
+🏆 Best AI Feature of Bali International AI Film Festival <br>
 🏆 Best Human-AI Collaboration Award of HKUST AI Film Festival <br>
 🏅 Honorable Mention of DASEIN AI Film Festival Best AI-Integrated Narrative Award <br>
+🌟 Official Selection of Burano Artificial Intelligence Film Festival <br>
 🌟 Official Selection of AI Film Awards Cannes <br>
 🌟 Official Selection of Toronto International Nollywood Film Festival <br>
 🌟 Official Selection of NewFilmmakers NY <br>
+🌟 Official Selection of Seoul International AI Film Festival <br>
 
 • Production Year: 2026 <br>
 
