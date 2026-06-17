@@ -34,9 +34,12 @@ Activities
 * Market Guest of the 20th [FIRST International Film Festival](https://www.firstfilm.org.cn/en/)
 * 1st Trainee of Digital Theatre Program Training Camp of the Beijing International Youth Theatre Festival, [National Theater of China](http://www.ntcc.com.cn/)
 
+Selected Awards in Research
+======
+* CVPR 2026 Highlight
+
 Selected Awards in Film
 ======
-
 * Excellent Award of Hong Kong International Youth Film Festival
 * Best First Time Director of Cleveland Arthouse Film Awards
 * Best Feminist Film of Brooklyn International Short Awards
