@@ -24,7 +24,7 @@ author:
   avatar           : "../images/profile2.JPG"
   name             : "Zeyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at HKUST <br>AI & HCI Researcher <br>Filmmaker <br>Curator"
+  bio              : "Ph.D. student at HKUST <br>AI Researcher <br>Filmmaker <br>Curator"
   location         : "Hong Kong"
   employer         : "HKUST"
   uri              : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "JohnnyZhang728"
+  github           : # "JohnnyZhang728"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
