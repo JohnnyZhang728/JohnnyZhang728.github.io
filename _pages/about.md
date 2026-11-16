@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). My research interest includes Generative AI, Video Generation, and AI for Film. I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu.zhang@connect.ust.hk).
+Hi! I'm a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) under the supervision of Prof. [Anyi Rao](https://anyirao.com/) and Prof. [Huamin Qu](http://huamin.org/). My research interest includes World Model, Generative AI, Video Generation, and AI for Film. I am eager to collaborate, and if you find that we share common interests, please feel free to drop me an [email](mailto:zeyu.zhang@connect.ust.hk).
 
 Education
 ======
@@ -15,12 +15,15 @@ Education
 * MSc in Computer Science, The University of Hong Kong, 09/2022 - 12/2023
 * BEng in Computer Science and Technology, Wuhan University, 09/2018 - 06/2022
 
-Research Internship
+Internship
 ======
-* 01/2025 - 08/2025: Remote Research Intern
+* 09/2026 - present: Research Internship
+  * [Zoooo Team, Banana Lab](https://zoooo.ai/)
+  * Duties included: Research on Social World Models. Developed Zoooo-WM.
+* 01/2025 - 08/2025: Remote Research Internship
   * VVAI Lab, [Texas A&M University](https://www.tamu.edu/)
   * Supervisor: Prof. [Wai Tong](https://wtong2017.github.io/)
-  * Duties included: Develop an AI-driven system to generate real-time American Sign Language during concerts, providing accessibility to Deaf and hard-of-hearing audiences.
+  * Duties included: Developed an AI-driven system to generate real-time American Sign Language during concerts, providing accessibility to Deaf and hard-of-hearing audiences.
 * 10/2023 - 08/2024: Research Assistant
   * Metaverse Innovation Lab, [The University of Hong Kong](https://www.hku.hk/)
   * Supervisor: Dr. [Loretta Choi](https://i.cs.hku.hk/~ykchoi/)
@@ -47,11 +50,14 @@ Selected Awards in Film
 * Best Production Design of Busan New Wave Short Film Festival
 * Best Production Design of Incheon International Short Film Festival
 * Best AI Feature of Bali International AI Film Festival
-* Best Human-AI Collaboration Award of HKUST AI Film Festival
 * Honorable Mention of Hollywood New Directors
 * Honorable Mention of Greece International Film Festival
 * Finalist of the 58th WorldFest-Houston International Film Festival
 * Official Selection of the 15th Macau International Micro-Movie Festival
+* Official Selection of Burano Artificial Intelligence Film Festival
+* Official Selection of AI Film Awards Cannes
+* Official Selection of Toronto International Nollywood Film Festival
+* Official Selection of 86358 JIA VILLAGE Short Film Festival
 
 
 
