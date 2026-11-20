@@ -59,8 +59,7 @@ Selected Awards in Film
 * Official Selection of Toronto International Nollywood Film Festival
 * Official Selection of 86358 JIA VILLAGE Short Film Festival
 
+## Teaching Experience
 
-
-
-
-
+* **2026 Fall — Teaching Assistant**
+  * AMCC 6500H: World Models for Machine Creativity and Embodied AI
